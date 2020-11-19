@@ -18,6 +18,7 @@ class Solution(object):
         return subtree(0, len(postorder)-1)
 
 # 辅助单调栈
+# 后序遍历数组的倒序
 class Solution(object):
     def verifyPostorder(self, postorder):
         """
