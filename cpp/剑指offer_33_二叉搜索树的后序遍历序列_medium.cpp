@@ -18,7 +18,7 @@ public:
 };
 
 // 辅助单调栈 
-// 遍历后续便利数组的倒序
+// 后序遍历数组的倒序
 class Solution {
 public:
     bool verifyPostorder(vector<int>& postorder) {
