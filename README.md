@@ -1,7 +1,7 @@
 # leetcode_daily
 ### Leetcode每日一题
 
-Update on 11, November, 2020 by Fan Zhang
+Update on 19, November, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | --- | ----- | ---------- | ------ | --- |
