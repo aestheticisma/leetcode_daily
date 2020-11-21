@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 20, November, 2020 by Fan Zhang
+Update on 21, November, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -13,3 +13,4 @@ Update on 20, November, 2020 by Fan Zhang
 | 面试题_17.24 | 最大子矩阵 | Hard | [面试题_17_24_最大子矩阵.py](./python/面试题_17_24_最大子矩阵.py) | [面试题_17_24_最大子矩阵.cpp](./cpp/面试题_17_24_最大子矩阵.cpp) |
 | 147 | 对链表进行插入排序 | Medium | [147_对链表进行插入排序.py](./python/147_对链表进行插入排序_medium.py) | [147_对链表进行插入排序.cpp](./cpp/147_对链表进行插入排序_medium.cpp) |
 | 466 | 统计重复个数 | Hard | [466_统计重复个数.py](./python/466_统计重复个数_hard.py) | [466_统计重复个数.cpp](./cpp/466_统计重复个数_hard.cpp) |
+| 148 | 排序链表 | Medium | [148_排序链表_medium.py](./python/148_排序链表_medium.py) | [148_排序链表_medium.cpp](./cpp/148_排序链表_medium.cpp) |
