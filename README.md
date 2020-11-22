@@ -15,3 +15,4 @@ Update on 22, November, 2020 by Fan Zhang
 | 466 | 统计重复个数 | Hard | [466_统计重复个数.py](./python/466_统计重复个数_hard.py) | [466_统计重复个数.cpp](./cpp/466_统计重复个数_hard.cpp) |
 | 148 | 排序链表 | Medium | [148_排序链表_medium.py](./python/148_排序链表_medium.py) | [148_排序链表_medium.cpp](./cpp/148_排序链表_medium.cpp) |
 | 242 | 有效的字母异位词 | Easy | [242_有效的字母异位词_easy.py](./python/242_有效的字母异位词_easy.py) | [242_有效的字母异位词_easy.cpp](./cpp/242_有效的字母异位词_easy.cpp) |
+| 14 | 最长公共前缀 | Easy | [14_最长公共前缀_easy.py](./python/14_最长公共前缀_easy.py) | [14_最长公共前缀_easy.cpp](./cpp/14_最长公共前缀_easy.cpp) |
