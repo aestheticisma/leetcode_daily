@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 22, November, 2020 by Fan Zhang
+Update on 23, November, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -17,3 +17,4 @@ Update on 22, November, 2020 by Fan Zhang
 | 242 | 有效的字母异位词 | Easy | [242_有效的字母异位词_easy.py](./python/242_有效的字母异位词_easy.py) | [242_有效的字母异位词_easy.cpp](./cpp/242_有效的字母异位词_easy.cpp) |
 | 14 | 最长公共前缀 | Easy | [14_最长公共前缀_easy.py](./python/14_最长公共前缀_easy.py) | [14_最长公共前缀_easy.cpp](./cpp/14_最长公共前缀_easy.cpp) |
 | 145 | 二叉树的后序遍历 | Medium | [145_二叉树的后序遍历_medium.py](./python/145_二叉树的后序遍历_medium.py) | [145_二叉树的后序遍历_medium.cpp](./cpp/145_二叉树的后序遍历_medium.cpp) |
+| 35 | 搜索插入位置 | Easy | [35_搜索插入位置_easy.py](./python/35_搜索插入位置_easy.py) | [35_搜索插入位置_easy.cpp](./cpp/35_搜索插入位置_easy.cpp) |
