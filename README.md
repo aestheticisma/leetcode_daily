@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 24, November, 2020 by Fan Zhang
+Update on 25, November, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -21,3 +21,4 @@ Update on 24, November, 2020 by Fan Zhang
 | 452 | 用最少数量的箭引爆气球 | Medium | [452_用最少数量的箭引爆气球_medium.py](./python/452_用最少数量的箭引爆气球_medium.py) | [452_用最少数量的箭引爆气球_medium.cpp](./cpp/452_用最少数量的箭引爆气球_medium.cpp) |
 | 837 | 新21点 | Medium | [837_新21点_medium.py](./python/837_新21点_medium.py) | [837_新21点_medium.cpp](./cpp/837_新21点_medium.cpp) |
 | 222 | 完全二叉树的节点个数 | Medium | [222_完全二叉树的节点个数_medium.py](./python/222_完全二叉树的节点个数_medium.py) | [222_完全二叉树的节点个数_medium.cpp](./cpp/222_完全二叉树的节点个数_medium.cpp) |
+| 1370 | 上升下降字符串 | Easy | [1370_上升下降字符串_easy.py](./python/1370_上升下降字符串_easy.py) | [1370_上升下降字符串_easy.cpp](./cpp/1370_上升下降字符串_easy.cpp) |
