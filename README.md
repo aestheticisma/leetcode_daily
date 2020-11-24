@@ -20,4 +20,4 @@ Update on 24, November, 2020 by Fan Zhang
 | 35 | 搜索插入位置 | Easy | [35_搜索插入位置_easy.py](./python/35_搜索插入位置_easy.py) | [35_搜索插入位置_easy.cpp](./cpp/35_搜索插入位置_easy.cpp) |
 | 452 | 用最少数量的箭引爆气球 | Medium | [452_用最少数量的箭引爆气球_medium.py](./python/452_用最少数量的箭引爆气球_medium.py) | [452_用最少数量的箭引爆气球_medium.cpp](./cpp/452_用最少数量的箭引爆气球_medium.cpp) |
 | 837 | 新21点 | Medium | [837_新21点_medium.py](./python/837_新21点_medium.py) | [837_新21点_medium.cpp](./cpp/837_新21点_medium.cpp) |
-| 222 | 完全二叉树的节点个数 | [222_完全二叉树的节点个数_medium.py](./python/222_完全二叉树的节点个数_medium.py) | [222_完全二叉树的节点个数_medium.cpp](./cpp/222_完全二叉树的节点个数_medium.cpp) |
+| 222 | 完全二叉树的节点个数 | Medium | [222_完全二叉树的节点个数_medium.py](./python/222_完全二叉树的节点个数_medium.py) | [222_完全二叉树的节点个数_medium.cpp](./cpp/222_完全二叉树的节点个数_medium.cpp) |
