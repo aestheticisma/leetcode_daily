@@ -28,3 +28,23 @@ public:
         return dummy;
     }
 };
+
+// 法2: 双指针
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode *dummyHead = new ListNode(0, head);
+        ListNode *first = head;
+        ListNode *second = dummyHead;
+        for(int i=0; i<n; i++)
+            first = first->next;
+        while(first){
+            first = first->next;
+            second = second->next;
+        }
+        second->next = second->next->next;
+        ListNode *ans = dummyHead->next;
+        delete dummyHead;
+        return ans;
+    }
+};
