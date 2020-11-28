@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 25, November, 2020 by Fan Zhang
+Update on 28, November, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -26,4 +26,4 @@ Update on 25, November, 2020 by Fan Zhang
 | 19 | 删除链表的倒数第N个节点 | Medium | [19_删除链表的倒数第N个节点_medium.py](./python/19_删除链表的倒数第N个节点_medium.py) | [19_删除链表的倒数第N个节点_medium](./cpp/19_删除链表的倒数第N个节点_medium.cpp) |
 | 164 | 最大间距 | Hard | [164_最大间距_hard.py](./python/164_最大间距_hard.py) | [164_最大间距_hard.cpp](./cpp/164_最大间距_hard.cpp) |
 | 454 | 四数相加II | Medium | [454_四数相加II_medium.py](./python/454_四数相加II_medium.py) | [454_四数相加II_medium.cpp](./cpp/454_四数相加II_medium.cpp) |
-
+| 493 | 翻转对 | Hard | [493_翻转对_hard.py](./python/493_翻转对_hard.py) | [493_翻转对_hard.cpp](./cpp/493_翻转对_hard.cpp) |
