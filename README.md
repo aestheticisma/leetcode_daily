@@ -34,6 +34,7 @@ Update on 4, December, 2020 by Fan Zhang
 | 204 | 计数质数 | Easy | [204_计数质数_easy.py](./python/204_计数质数_easy.py) | [204_计数质数_easy.cpp](./cpp/204_计数质数_easy.cpp) |
 | 659 |分割数组为连续子序列 | Medium | [659_分割数组为连续子序列_medium.py](./python/659_分割数组为连续子序列_medium.py) | [659_分割数组为连续子序列_medium.cpp](./cpp/659_分割数组为连续子序列_medium.cpp) |
 | 621 | 任务调度器 | Medium | [621_任务调度器_medium.py](./python/621_任务调度器_medium.py) | [621_任务调度器_medium.cpp](./cpp/621_任务调度器_medium.cpp) |
+| 118 | 杨辉三角 | Easy | [118_杨辉三角_easy.py](./python/118_杨辉三角_easy.py) | [118_杨辉三角_easy.cpp](./cpp/118_杨辉三角_easy.cpp) |
 
 
 
