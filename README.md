@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 4, December, 2020 by Fan Zhang
+Update on 7, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -35,7 +35,7 @@ Update on 4, December, 2020 by Fan Zhang
 | 659 |分割数组为连续子序列 | Medium | [659_分割数组为连续子序列_medium.py](./python/659_分割数组为连续子序列_medium.py) | [659_分割数组为连续子序列_medium.cpp](./cpp/659_分割数组为连续子序列_medium.cpp) |
 | 621 | 任务调度器 | Medium | [621_任务调度器_medium.py](./python/621_任务调度器_medium.py) | [621_任务调度器_medium.cpp](./cpp/621_任务调度器_medium.cpp) |
 | 118 | 杨辉三角 | Easy | [118_杨辉三角_easy.py](./python/118_杨辉三角_easy.py) | [118_杨辉三角_easy.cpp](./cpp/118_杨辉三角_easy.cpp) |
-
+| 861 | 翻转矩阵后的得分 | Medium | [861_翻转矩阵后的得分_medium.py](./python/861_翻转矩阵后的得分_medium.py) | [861_翻转矩阵后的得分_medium.cpp](./cpp/861_翻转矩阵后的得分_medium.cpp) |
 
 
 
