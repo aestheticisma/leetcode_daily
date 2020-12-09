@@ -37,6 +37,7 @@ Update on 8, December, 2020 by Fan Zhang
 | 118 | 杨辉三角 | Easy | [118_杨辉三角_easy.py](./python/118_杨辉三角_easy.py) | [118_杨辉三角_easy.cpp](./cpp/118_杨辉三角_easy.cpp) |
 | 861 | 翻转矩阵后的得分 | Medium | [861_翻转矩阵后的得分_medium.py](./python/861_翻转矩阵后的得分_medium.py) | [861_翻转矩阵后的得分_medium.cpp](./cpp/861_翻转矩阵后的得分_medium.cpp) |
 | 842 | 将数组拆分成斐波那契序列 | Medium | [842_将数组拆分成斐波那契序列_medium.py](./python/842_将数组拆分成斐波那契序列_medium.py) | [842_将数组拆分成斐波那契序列_medium](./cpp/842_将数组拆分成斐波那契序列_medium.cpp) |
+| 62 | 不同路径 | Medium | [62_不同路径_medium.py](./python/62_不同路径_medium.py) | [62_不同路径_medium.cpp](./cpp/62_不同路径_medium.cpp) |
 
 
 
