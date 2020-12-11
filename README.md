@@ -40,7 +40,7 @@ Update on 11, December, 2020 by Fan Zhang
 | 62 | 不同路径 | Medium | [62_不同路径_medium.py](./python/62_不同路径_medium.py) | [62_不同路径_medium.cpp](./cpp/62_不同路径_medium.cpp) |
 | 860 | 柠檬水找零 | Easy | [860_柠檬水找零_easy.py](./python860_柠檬水找零_easy.py) | [860_柠檬水找零_easy.cpp](./cpp/860_柠檬水找零_easy.cpp) |
 | 91 | 解码方法 | Medium | [91_解码方法_medium.py](./python/91_解码方法_medium.py) | [91_解码方法_medium.cpp](./cpp/91_解码方法_medium.cpp) |
-
+| 649 | Dota2 参议院 | Medium | [649_Dota2 参议院_medium.py](./python/649_Dota2_参议院_medium.py) | [649_Dota2 参议院_medium](./cpp/649_Dota2_参议院_medium.cpp) |
 
 
 
