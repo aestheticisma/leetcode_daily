@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 12, December, 2020 by Fan Zhang
+Update on 13, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -42,6 +42,7 @@ Update on 12, December, 2020 by Fan Zhang
 | 91 | 解码方法 | Medium | [91_解码方法_medium.py](./python/91_解码方法_medium.py) | [91_解码方法_medium.cpp](./cpp/91_解码方法_medium.cpp) |
 | 649 | Dota2 参议院 | Medium | [649_Dota2 参议院_medium.py](./python/649_Dota2_参议院_medium.py) | [649_Dota2 参议院_medium](./cpp/649_Dota2_参议院_medium.cpp) |
 | 376 | 摆动序列 | Medium | [376_摆动序列_medium.py](./python/376_摆动序列_medium.py) | [376_摆动序列_medium.cpp](./cpp/376_摆动序列_medium.cpp) |
+| 217 | 存在重复元素 | Easy | [217_存在重复元素_easy.py](./python/217_存在重复元素_easy.py) | [217_存在重复元素_easy.cpp](./cpp/217_存在重复元素_easy.cpp) |
 
 
 
