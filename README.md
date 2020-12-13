@@ -43,6 +43,7 @@ Update on 13, December, 2020 by Fan Zhang
 | 649 | Dota2 参议院 | Medium | [649_Dota2 参议院_medium.py](./python/649_Dota2_参议院_medium.py) | [649_Dota2 参议院_medium](./cpp/649_Dota2_参议院_medium.cpp) |
 | 376 | 摆动序列 | Medium | [376_摆动序列_medium.py](./python/376_摆动序列_medium.py) | [376_摆动序列_medium.cpp](./cpp/376_摆动序列_medium.cpp) |
 | 217 | 存在重复元素 | Easy | [217_存在重复元素_easy.py](./python/217_存在重复元素_easy.py) | [217_存在重复元素_easy.cpp](./cpp/217_存在重复元素_easy.cpp) |
+| 面试题 02.06 | 回文链表 | Easy | []() | [回文链表.cpp](./cpp/面试题_02_06_回文链表.easy.cpp) |
 
 
 
