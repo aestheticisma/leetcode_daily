@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 13, December, 2020 by Fan Zhang
+Update on 14, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -44,6 +44,7 @@ Update on 13, December, 2020 by Fan Zhang
 | 376 | 摆动序列 | Medium | [376_摆动序列_medium.py](./python/376_摆动序列_medium.py) | [376_摆动序列_medium.cpp](./cpp/376_摆动序列_medium.cpp) |
 | 217 | 存在重复元素 | Easy | [217_存在重复元素_easy.py](./python/217_存在重复元素_easy.py) | [217_存在重复元素_easy.cpp](./cpp/217_存在重复元素_easy.cpp) |
 | 面试题 02.06 | 回文链表 | Easy | []() | [回文链表.cpp](./cpp/面试题_02_06_回文链表.easy.cpp) |
+| 49 | 字母异位词分组 | Medium | [49_字母异位词分组_medium.py](./python/49_字母异位词分组_medium.py) | [49_字母异位词分组_medium](./cpp/49_字母异位词分组_medium.cpp) |
 
 
 
