@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 15, December, 2020 by Fan Zhang
+Update on 16, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -47,6 +47,7 @@ Update on 15, December, 2020 by Fan Zhang
 | 49 | 字母异位词分组 | Medium | [49_字母异位词分组_medium.py](./python/49_字母异位词分组_medium.py) | [49_字母异位词分组_medium](./cpp/49_字母异位词分组_medium.cpp) |
 | 738 | 单调递增的数字 | Medium | [738_单调递增的数字_medium.py](./python/738_单调递增的数字_medium.py) | [738_单调递增的数字_medium.cpp](./cpp/738_单调递增的数字_medium.cpp) |
 | 124 | 二叉树中的最大路径和 | Hard | [124_二叉树中的最大路径和_hard.py](./python/124_二叉树中的最大路径和_hard.py) | [124_二叉树中的最大路径和_hard.cpp](./cpp/124_二叉树中的最大路径和_hard.cpp) |
+| 290 | 单词规律 | Easy | [290_单词规律_easy.py](./python/290_单词规律_easy.py) | [290_单词规律_easy.cpp](./cpp/290_单词规律_easy.cpp) |
 
 
 
