@@ -52,6 +52,7 @@ Update on 18, December, 2020 by Fan Zhang
 | 817 | 链表组件 | Medium | [817_链表组件_medium.py](./python/817_链表组件_medium.py) | [817_链表组件_medium.cpp](./cpp/817_链表组件_medium.cpp) |
 | 875 | 爱吃香蕉的珂珂 | Medium | [875_爱吃香蕉的珂珂_medium.py](./python/875_爱吃香蕉的珂珂_medium.py) | [875_爱吃香蕉的珂珂_medium.cpp](./cpp/875_爱吃香蕉的珂珂_medium.cpp) |
 | 389 | 找不同| Medium | [389_找不同_medium.py](./python/389_找不同_medium.py) | [389_找不同_medium.cpp](./cpp/389_找不同_medium.cpp) |
+| 541 | 反转字符串 II | Easy | [541_反转字符串_II_easy.py](./python/541_反转字符串_II_easy) | [541_反转字符串_II_easy](./cpp/541_反转字符串_II_easy.cpp) |
 
 
 
