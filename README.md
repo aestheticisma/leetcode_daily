@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 19, December, 2020 by Fan Zhang
+Update on 20, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -54,7 +54,7 @@ Update on 19, December, 2020 by Fan Zhang
 | 389 | 找不同| Medium | [389_找不同_medium.py](./python/389_找不同_medium.py) | [389_找不同_medium.cpp](./cpp/389_找不同_medium.cpp) |
 | 541 | 反转字符串 II | Easy | [541_反转字符串_II_easy.py](./python/541_反转字符串_II_easy.py) | [541_反转字符串_II_easy](./cpp/541_反转字符串_II_easy.cpp) |
 | 48 | 旋转图像 | Medium | [48_旋转图像_medium.py](./python/48_旋转图像_medium.py) | [48_旋转图像_medium.cpp](./cpp/48_旋转图像_medium.cpp) |
-
+| 316 | 去除重复字母 | Medium | [316_去除重复字母_medium.py](./python/316_去除重复字母_medium.py) | [316_去除重复字母_medium.cpp](./cpp/316_去除重复字母_medium.cpp) |
 
 
 
