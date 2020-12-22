@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 22, December, 2020 by Fan Zhang
+Update on 23, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -59,6 +59,7 @@ Update on 22, December, 2020 by Fan Zhang
 | 103 | 二叉树的锯齿形层次遍历 | Medium | [103_二叉树的锯齿形层次遍历_medium.py](./python/103_二叉树的锯齿形层次遍历_medium.py) | [103_二叉树的锯齿形层次遍历_medium.cpp](./cpp/103_二叉树的锯齿形层次遍历_medium.cpp) |
 | 652 | 寻找重复的子树 | Medium | [652_寻找重复的子树_medium.py](652_寻找重复的子树_medium.py) | [652_寻找重复的子树_medium.cpp](./cpp/652_寻找重复的子树_medium.cpp) |
 | 1668 | 最大重复子字符串 | Easy | [1668_最大重复子字符串_easy.py](./python/1668_最大重复子字符串_easy.py) | [1668_最大重复子字符串_easy.cpp](./cpp/1668_最大重复子字符串_easy.cpp) |
+| 387 | 字符串中的第一个唯一字符 | Easy | [387_字符串中的第一个唯一字符_easy.py](./python/387_字符串中的第一个唯一字符_easy.py) | [387_字符串中的第一个唯一字符_easy.cpp](./cpp/387_字符串中的第一个唯一字符_easy.cpp) |
 
 
 
