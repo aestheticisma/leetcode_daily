@@ -57,6 +57,7 @@ Update on 22, December, 2020 by Fan Zhang
 | 316 | 去除重复字母 | Medium | [316_去除重复字母_medium.py](./python/316_去除重复字母_medium.py) | [316_去除重复字母_medium.cpp](./cpp/316_去除重复字母_medium.cpp) |
 | 746 | 使用最小花费爬楼梯 | Easy | [746_使用最小花费爬楼梯_easy.py](./python/746_使用最小花费爬楼梯_easy.py) | [746_使用最小花费爬楼梯_easy](./cpp/746_使用最小花费爬楼梯_easy.cpp) |
 | 103 | 二叉树的锯齿形层次遍历 | Medium | [103_二叉树的锯齿形层次遍历_medium.py](./python/103_二叉树的锯齿形层次遍历_medium.py) | [103_二叉树的锯齿形层次遍历_medium.cpp](./cpp/103_二叉树的锯齿形层次遍历_medium.cpp) |
+| 652 | 寻找重复的子树 | Medium | [652_寻找重复的子树_medium.py](652_寻找重复的子树_medium.py) | [652_寻找重复的子树_medium.cpp](./cpp/652_寻找重复的子树_medium.cpp) |
 
 
 
