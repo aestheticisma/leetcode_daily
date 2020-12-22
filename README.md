@@ -58,6 +58,7 @@ Update on 22, December, 2020 by Fan Zhang
 | 746 | 使用最小花费爬楼梯 | Easy | [746_使用最小花费爬楼梯_easy.py](./python/746_使用最小花费爬楼梯_easy.py) | [746_使用最小花费爬楼梯_easy](./cpp/746_使用最小花费爬楼梯_easy.cpp) |
 | 103 | 二叉树的锯齿形层次遍历 | Medium | [103_二叉树的锯齿形层次遍历_medium.py](./python/103_二叉树的锯齿形层次遍历_medium.py) | [103_二叉树的锯齿形层次遍历_medium.cpp](./cpp/103_二叉树的锯齿形层次遍历_medium.cpp) |
 | 652 | 寻找重复的子树 | Medium | [652_寻找重复的子树_medium.py](652_寻找重复的子树_medium.py) | [652_寻找重复的子树_medium.cpp](./cpp/652_寻找重复的子树_medium.cpp) |
+| 1668 | 最大重复子字符串 | Easy | [1668_最大重复子字符串_easy.py](./python/1668_最大重复子字符串_easy.py) | [1668_最大重复子字符串_easy.cpp](./cpp/1668_最大重复子字符串_easy.cpp) |
 
 
 
