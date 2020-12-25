@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 25, December, 2020 by Fan Zhang
+Update on 26, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -62,6 +62,7 @@ Update on 25, December, 2020 by Fan Zhang
 | 387 | 字符串中的第一个唯一字符 | Easy | [387_字符串中的第一个唯一字符_easy.py](./python/387_字符串中的第一个唯一字符_easy.py) | [387_字符串中的第一个唯一字符_easy.cpp](./cpp/387_字符串中的第一个唯一字符_easy.cpp) |
 | 135 | 分发糖果 | Hard | [135_分发糖果_hard.py](./python/135_分发糖果_hard.py) | [135_分发糖果_hard.cpp](./cpp/135_分发糖果_hard.cpp) | 
 | 455 | 分发饼干 | Easy | [455_分发饼干_easy.py](./python/455_分发饼干_easy.py) | [455_分发饼干_easy.cpp](./cpp/455_分发饼干_easy.cpp) |
+| 85 | 最大矩形 | Hard | [85_最大矩形_hard.py](./python/85_最大矩形_hard.py) | [85_最大矩形_hard.cpp](./cpp/85_最大矩形_hard.cpp) |
 
 
 
