@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 28, December, 2020 by Fan Zhang
+Update on 29, December, 2020 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -65,6 +65,7 @@ Update on 28, December, 2020 by Fan Zhang
 | 85 | 最大矩形 | Hard | [85_最大矩形_hard.py](./python/85_最大矩形_hard.py) | [85_最大矩形_hard.cpp](./cpp/85_最大矩形_hard.cpp) |
 | 205 | 同构字符串 | Easy | [205_同构字符串_easy.py](./python/205_同构字符串_easy.py) | [205_同构字符串_easy.cpp](./cpp/205_同构字符串_easy.cpp) |
 | 188 | 买卖股票的最佳时机 IV | Hard | [188_买卖股票的最佳时机_IV_hard.py](./python/188_买卖股票的最佳时机_IV_hard.py) | [188_买卖股票的最佳时机_IV_hard](./cpp/188_买卖股票的最佳时机_IV_hard.cpp) |
+| 330 | 按要求补齐数组 | Hard | [330_按要求补齐数组_hard.py](./python/330_按要求补齐数组_hard.py) | [330_按要求补齐数组_hard.cpp](./cpp/330_按要求补齐数组_hard.cpp) |
 
 
 
