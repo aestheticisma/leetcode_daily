@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 31, December, 2020 by Fan Zhang
+Update on 1, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -68,6 +68,7 @@ Update on 31, December, 2020 by Fan Zhang
 | 330 | 按要求补齐数组 | Hard | [330_按要求补齐数组_hard.py](./python/330_按要求补齐数组_hard.py) | [330_按要求补齐数组_hard.cpp](./cpp/330_按要求补齐数组_hard.cpp) |
 | 1046 | 最后一块石头的重量 | Easy | [1046_最后一块石头的重量_easy.py](./python/1046_最后一块石头的重量_easy.py) | [1046_最后一块石头的重量_easy.cpp](./cpp/1046_最后一块石头的重量_easy.cpp) |
 | 435 | 无重叠区间 | Medium | [435_无重叠区间_medium.py](./python/435_无重叠区间_medium.py) | [435_无重叠区间_medium.cpp](./cpp/435_无重叠区间_medium.cpp) |
+| 605 | 种花问题 | Easy | [605_种花问题_easy.py](./python/605_种花问题_easy.py) | [605_种花问题_easy.cpp](./cpp/605_种花问题_easy.cpp) |
 
 
 
