@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 1, January, 2021 by Fan Zhang
+Update on 2, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -69,6 +69,6 @@ Update on 1, January, 2021 by Fan Zhang
 | 1046 | 最后一块石头的重量 | Easy | [1046_最后一块石头的重量_easy.py](./python/1046_最后一块石头的重量_easy.py) | [1046_最后一块石头的重量_easy.cpp](./cpp/1046_最后一块石头的重量_easy.cpp) |
 | 435 | 无重叠区间 | Medium | [435_无重叠区间_medium.py](./python/435_无重叠区间_medium.py) | [435_无重叠区间_medium.cpp](./cpp/435_无重叠区间_medium.cpp) |
 | 605 | 种花问题 | Easy | [605_种花问题_easy.py](./python/605_种花问题_easy.py) | [605_种花问题_easy.cpp](./cpp/605_种花问题_easy.cpp) |
-
+| 239 | 滑动窗口最大值 | Hard | [239_滑动窗口最大值_hard.py](./python/239_滑动窗口最大值_hard.py) | [239_滑动窗口最大值_hard.cpp](./cpp/239_滑动窗口最大值_hard.cpp) |
 
 
