@@ -74,8 +74,8 @@ Update on 8, January, 2021 by Fan Zhang
 | 509 | 斐波那契数 | Easy | [509_斐波那契数_easy.py](./python/509_斐波那契数_easy.py) | [509_斐波那契数_easy.cpp](./cpp/509_斐波那契数_easy.cpp) |
 | 830 | 较大分组的位置 | Easy | [830_较大分组的位置_easy.py](./python/830_较大分组的位置_easy.py) | [830_较大分组的位置_easy.cpp](./cpp/830_较大分组的位置_easy.cpp) |
 | 399 | 除法求值 | Medium | [399_除法求值_medium.py](./python/399_除法求值_medium.py) | [399_除法求值_medium.cpp](./cpp/399_除法求值_medium.cpp) |
-| 547 | 省份数量 | Medium | [547_省份数量_medium.py](./pyton/547_省份数量_medium.py) | [547_省份数量_medium.cpp](./cpp/547_省份数量_medium.cpp) |
-| 189 | 旋转数组 | Medium | [189_旋转数组_medium.py](./pyton/189_旋转数组_medium.py) | [189_旋转数组_medium.cpp](./cpp/189_旋转数组_medium.cpp) |
+| 547 | 省份数量 | Medium | [547_省份数量_medium.py](./python/547_省份数量_medium.py) | [547_省份数量_medium.cpp](./cpp/547_省份数量_medium.cpp) |
+| 189 | 旋转数组 | Medium | [189_旋转数组_medium.py](./python/189_旋转数组_medium.py) | [189_旋转数组_medium.cpp](./cpp/189_旋转数组_medium.cpp) |
 
 
 
