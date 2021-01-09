@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 9, January, 2021 by Fan Zhang
+Update on 10, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -77,6 +77,7 @@ Update on 9, January, 2021 by Fan Zhang
 | 547 | 省份数量 | Medium | [547_省份数量_medium.py](./python/547_省份数量_medium.py) | [547_省份数量_medium.cpp](./cpp/547_省份数量_medium.cpp) |
 | 189 | 旋转数组 | Medium | [189_旋转数组_medium.py](./python/189_旋转数组_medium.py) | [189_旋转数组_medium.cpp](./cpp/189_旋转数组_medium.cpp) |
 | 123 | 买卖股票的最佳时机 III | Hard | [123_买卖股票的最佳时机_III_hard.py](./python/123_买卖股票的最佳时机_III_hard.py) | [123_买卖股票的最佳时机_III_hard.cpp](./cpp/123_买卖股票的最佳时机_III_hard.cpp) |
+| 228 | 汇总区间 | Easy | [228_汇总区间_easy.py](./python/228_汇总区间_easy.py) | [228_汇总区间_easy.cpp](./cpp/228_汇总区间_easy.cpp) |
 
 
 
