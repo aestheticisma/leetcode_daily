@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 12, January, 2021 by Fan Zhang
+Update on 13, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -79,6 +79,7 @@ Update on 12, January, 2021 by Fan Zhang
 | 123 | 买卖股票的最佳时机 III | Hard | [123_买卖股票的最佳时机_III_hard.py](./python/123_买卖股票的最佳时机_III_hard.py) | [123_买卖股票的最佳时机_III_hard.cpp](./cpp/123_买卖股票的最佳时机_III_hard.cpp) |
 | 228 | 汇总区间 | Easy | [228_汇总区间_easy.py](./python/228_汇总区间_easy.py) | [228_汇总区间_easy.cpp](./cpp/228_汇总区间_easy.cpp) |
 | 1202 | 交换字符串中的元素 | Medium | [1202_交换字符串中的元素_medium.py](./python/1202_交换字符串中的元素_medium.py) | [1202_交换字符串中的元素_medium.cpp](./cpp/1202_交换字符串中的元素_medium.cpp) |
+| 684 | 冗余连接 | Medium | [684_冗余连接_medium.py](./python/684_冗余连接_medium.py) | [684_冗余连接_medium.cpp](./cpp/684_冗余连接_medium.cpp) |
 
 
 
