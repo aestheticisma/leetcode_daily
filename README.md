@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, January, 2021 by Fan Zhang
+Update on 15, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -81,6 +81,7 @@ Update on 14, January, 2021 by Fan Zhang
 | 1202 | 交换字符串中的元素 | Medium | [1202_交换字符串中的元素_medium.py](./python/1202_交换字符串中的元素_medium.py) | [1202_交换字符串中的元素_medium.cpp](./cpp/1202_交换字符串中的元素_medium.cpp) |
 | 684 | 冗余连接 | Medium | [684_冗余连接_medium.py](./python/684_冗余连接_medium.py) | [684_冗余连接_medium.cpp](./cpp/684_冗余连接_medium.cpp) |
 | 1018 | 可被5整除的二进制前缀 | Easy | [1018_可被5整除的二进制前缀_easy.py](./python/1018_可被5整除的二进制前缀_easy.py) | [1018_可被5整除的二进制前缀_easy.cpp](./cpp/1018_可被5整除的二进制前缀_easy.cpp) | 
+| 947 | 移除最多的同行或同列石头 | Medium | [947_移除最多的同行或同列石头_medium.py](./python/947_移除最多的同行或同列石头_medium.py) | []() | 
 
 
 
