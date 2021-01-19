@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, January, 2021 by Fan Zhang
+Update on 19, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -84,6 +84,7 @@ Update on 18, January, 2021 by Fan Zhang
 | 947 | 移除最多的同行或同列石头 | Medium | [947_移除最多的同行或同列石头_medium.py](./python/947_移除最多的同行或同列石头_medium.py) | []() | 
 | 1232 | 缀点成线 | Easy | [1232_缀点成线_easy.py](./python/1232_缀点成线_easy.py) | [1232_缀点成线_easy.cpp](./cpp/1232_缀点成线_easy.cpp) | 
 | 721 | 账户合并 | Medium | [721_账户合并_medium.py](./python/721_账户合并_medium.py) | []() | 
+| 1584 | 连接所有点的最小费用 | Medium | [1584_连接所有点的最小费用_medium.py](./python/1584_连接所有点的最小费用_medium.py) | [1584_连接所有点的最小费用_medium](./cpp/1584_连接所有点的最小费用_medium.cpp) | 
 
 
 
