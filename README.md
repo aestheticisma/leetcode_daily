@@ -85,7 +85,7 @@ Update on 20, January, 2021 by Fan Zhang
 | 1232 | 缀点成线 | Easy | [1232_缀点成线_easy.py](./python/1232_缀点成线_easy.py) | [1232_缀点成线_easy.cpp](./cpp/1232_缀点成线_easy.cpp) | 
 | 721 | 账户合并 | Medium | [721_账户合并_medium.py](./python/721_账户合并_medium.py) | []() | 
 | 1584 | 连接所有点的最小费用 | Medium | [1584_连接所有点的最小费用_medium.py](./python/1584_连接所有点的最小费用_medium.py) | [1584_连接所有点的最小费用_medium](./cpp/1584_连接所有点的最小费用_medium.cpp) | 
-| 628 | 三个数的最大乘积 | Easy | [628_三个数的最大乘积_easy.py](./python/628_三个数的最大乘积_easy.py) | [628_三个数的最大乘积_easy](./cpp/628_三个数的最大乘积_easy.cpp) | 
+| 628 | 三个数的最大乘积 | Easy | [628_三个数的最大乘积_easy.py](./python/628_三个数的最大乘积_easy.py) | [628_三个数的最大乘积_easy.cpp](./cpp/628_三个数的最大乘积_easy.cpp) | 
 
 
 
