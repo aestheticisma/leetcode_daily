@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 21, January, 2021 by Fan Zhang
+Update on 22, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -87,6 +87,7 @@ Update on 21, January, 2021 by Fan Zhang
 | 1584 | 连接所有点的最小费用 | Medium | [1584_连接所有点的最小费用_medium.py](./python/1584_连接所有点的最小费用_medium.py) | [1584_连接所有点的最小费用_medium](./cpp/1584_连接所有点的最小费用_medium.cpp) | 
 | 628 | 三个数的最大乘积 | Easy | [628_三个数的最大乘积_easy.py](./python/628_三个数的最大乘积_easy.py) | [628_三个数的最大乘积_easy.cpp](./cpp/628_三个数的最大乘积_easy.cpp) | 
 | 1489 | 找到最小生成树里的关键边和伪关键边 | Hard | [1489_找到最小生成树里的关键边和伪关键边_hard.py](./python/1489_找到最小生成树里的关键边和伪关键边_hard.py) | [1489_找到最小生成树里的关键边和伪关键边_hard.cpp](./cpp/1489_找到最小生成树里的关键边和伪关键边_hard.cpp) | 
+| 989 | 数组形式的整数加法 | Easy | [989_数组形式的整数加法_easy.py](./python/989_数组形式的整数加法_easy.py) | [989_数组形式的整数加法_easy.cpp](./cpp/989_数组形式的整数加法_easy.cpp) | 
 
 
 
