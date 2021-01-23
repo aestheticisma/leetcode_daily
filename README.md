@@ -90,6 +90,7 @@ Update on 24, January, 2021 by Fan Zhang
 | 989 | 数组形式的整数加法 | Easy | [989_数组形式的整数加法_easy.py](./python/989_数组形式的整数加法_easy.py) | [989_数组形式的整数加法_easy.cpp](./cpp/989_数组形式的整数加法_easy.cpp) | 
 | 1319 | 连通网络的操作次数 | Medium | [1319_连通网络的操作次数_medium.py](./python/1319_连通网络的操作次数_medium.py) | [1319_连通网络的操作次数_medium.cpp](./cpp/1319_连通网络的操作次数_medium.cpp) | 
 | 803 | 打砖块 | Hard | [803_打转块_hard.py](./python/803_打转块_hard.py) | [803_打转块_hard.cpp](./cpp/803_打转块_hard.cpp) | 
+| 674 | 最长连续递增序列 | Easy | [674_最长连续递增序列_easy.py](./python/674_最长连续递增序列_easy.py) | [674_最长连续递增序列_easy.cpp](./cpp/674_最长连续递增序列_easy.cpp) | 
 
 
 
