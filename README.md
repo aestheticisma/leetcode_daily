@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 23, January, 2021 by Fan Zhang
+Update on 24, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -89,6 +89,8 @@ Update on 23, January, 2021 by Fan Zhang
 | 1489 | 找到最小生成树里的关键边和伪关键边 | Hard | [1489_找到最小生成树里的关键边和伪关键边_hard.py](./python/1489_找到最小生成树里的关键边和伪关键边_hard.py) | [1489_找到最小生成树里的关键边和伪关键边_hard.cpp](./cpp/1489_找到最小生成树里的关键边和伪关键边_hard.cpp) | 
 | 989 | 数组形式的整数加法 | Easy | [989_数组形式的整数加法_easy.py](./python/989_数组形式的整数加法_easy.py) | [989_数组形式的整数加法_easy.cpp](./cpp/989_数组形式的整数加法_easy.cpp) | 
 | 1319 | 连通网络的操作次数 | Medium | [1319_连通网络的操作次数_medium.py](./python/1319_连通网络的操作次数_medium.py) | [1319_连通网络的操作次数_medium.cpp](./cpp/1319_连通网络的操作次数_medium.cpp) | 
+| 803 | 打砖块 | Hard | [803_打转块_hard.py](./python/803_打转块_hard.py) | [803_打转块_hard.cpp](./cpp/803_打转块_hard.cpp) | 
+
 
 
 
