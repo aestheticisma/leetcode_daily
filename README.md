@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 25, January, 2021 by Fan Zhang
+Update on 26, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -92,6 +92,7 @@ Update on 25, January, 2021 by Fan Zhang
 | 803 | 打砖块 | Hard | [803_打转块_hard.py](./python/803_打转块_hard.py) | [803_打转块_hard.cpp](./cpp/803_打转块_hard.cpp) | 
 | 674 | 最长连续递增序列 | Easy | [674_最长连续递增序列_easy.py](./python/674_最长连续递增序列_easy.py) | [674_最长连续递增序列_easy.cpp](./cpp/674_最长连续递增序列_easy.cpp) | 
 | 959 | 由斜杠划分区域 | Medium | [959_由斜杠划分区域_medium.py](./python/959_由斜杠划分区域_medium.py) | [959_由斜杠划分区域_medium.cpp](./cpp/959_由斜杠划分区域_medium.cpp) | 
+| 1128 | 等价多米诺骨牌对的数量 | Easy | [1128_等价多米诺骨牌对的数量_easy.py](./python/1128_等价多米诺骨牌对的数量_easy.py) | [1128_等价多米诺骨牌对的数量_easy.cpp](./cpp/1128_等价多米诺骨牌对的数量_easy.cpp) | 
 
 
 
