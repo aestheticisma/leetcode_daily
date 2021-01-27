@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 27, January, 2021 by Fan Zhang
+Update on 28, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -95,6 +95,7 @@ Update on 27, January, 2021 by Fan Zhang
 | 1128 | 等价多米诺骨牌对的数量 | Easy | [1128_等价多米诺骨牌对的数量_easy.py](./python/1128_等价多米诺骨牌对的数量_easy.py) | [1128_等价多米诺骨牌对的数量_easy.cpp](./cpp/1128_等价多米诺骨牌对的数量_easy.cpp) | 
 | 20 | 有效的括号 | Easy | [20_有效的括号_easy.py](./python/20_有效的括号_easy.py) | [20_有效的括号_easy.cpp](./cpp/20_有效的括号_easy.cpp) | 
 | 1579 | 保证图可完全遍历 | Hard | [1579_保证图可完全遍历_hard.py](./python/1579_保证图可完全遍历_hard.py) | [1579_保证图可完全遍历_hard.cpp](./cpp/1579_保证图可完全遍历_hard.cpp) | 
+| 724 | 寻找数组的中心索引 | Easy | [724_寻找数组的中心索引_easy.py](./python/724_寻找数组的中心索引_easy.py) | [724_寻找数组的中心索引_easy.cpp](./cpp/724_寻找数组的中心索引_easy.cpp) | 
 
 
 
