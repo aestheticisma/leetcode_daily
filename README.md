@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 29, January, 2021 by Fan Zhang
+Update on 30, January, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -97,6 +97,7 @@ Update on 29, January, 2021 by Fan Zhang
 | 1579 | 保证图可完全遍历 | Hard | [1579_保证图可完全遍历_hard.py](./python/1579_保证图可完全遍历_hard.py) | [1579_保证图可完全遍历_hard.cpp](./cpp/1579_保证图可完全遍历_hard.cpp) | 
 | 724 | 寻找数组的中心索引 | Easy | [724_寻找数组的中心索引_easy.py](./python/724_寻找数组的中心索引_easy.py) | [724_寻找数组的中心索引_easy.cpp](./cpp/724_寻找数组的中心索引_easy.cpp) | 
 | 1631 | 最小体力消耗路径 | Medium | [1631_最小体力消耗路径_medium.py](./python/1631_最小体力消耗路径_medium.py) | [1631_最小体力消耗路径_medium.cpp](./cpp/1631_最小体力消耗路径_medium.cpp) | 
+| 778 | 水位上升的泳池中游泳 | Medium | [778_水位上升的泳池中游泳_medium.py](./python/778_水位上升的泳池中游泳_medium.py) | [778_水位上升的泳池中游泳_medium.cpp](./cpp/778_水位上升的泳池中游泳_medium.cpp) | 
 
 
 
