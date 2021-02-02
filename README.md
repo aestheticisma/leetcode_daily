@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 1, February, 2021 by Fan Zhang
+Update on 2, February, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -100,7 +100,7 @@ Update on 1, February, 2021 by Fan Zhang
 | 778 | 水位上升的泳池中游泳 | Medium | [778_水位上升的泳池中游泳_medium.py](./python/778_水位上升的泳池中游泳_medium.py) | [778_水位上升的泳池中游泳_medium.cpp](./cpp/778_水位上升的泳池中游泳_medium.cpp) | 
 | 839 | 相似字符串组 | Hard | [839_相似字符串组_hard.py](./python/839_相似字符串组_hard.py) | [839_相似字符串组_hard.cpp](./cpp/839_相似字符串组_hard.cpp) | 
 | 888 | 公平的糖果棒交换 | Easy | [888_公平的糖果棒交换_easy.py](./python/888_公平的糖果棒交换_easy.py) | [888_公平的糖果棒交换_easy.cpp](./cpp/888_公平的糖果棒交换_easy.cpp) | 
-
+| 424 | 替换后的最长重复字符 | Medium | [424_替换后的最长重复字符_medium.py](./python/424_替换后的最长重复字符_medium.py) | [424_替换后的最长重复字符_medium.cpp](./cpp/424_替换后的最长重复字符_medium.cpp) |
 
 
 
