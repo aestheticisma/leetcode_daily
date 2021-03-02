@@ -105,6 +105,7 @@ Update on 2, March, 2021 by Fan Zhang
 | 303 | 区域和检索-数组不可变 | Easy | [303_区域和检索-数组不可变_easy.py](./python/303_区域和检索-数组不可变_easy.py) | [303_区域和检索-数组不可变_easy.cpp](./cpp/303_区域和检索-数组不可变_easy.cpp) |
 | 480 | 滑动窗口中位数 | Hard | - | [480_滑动窗口中位数_hard.cpp](./cpp/480_滑动窗口中位数_hard.cpp) |
 | 304 | 二维区域和检索_矩阵不可变 | Medium | - | [304_二维区域和检索_矩阵不可变_medium.cpp](./cpp/304_二维区域和检索_矩阵不可变_medium.cpp) |
+| 643 | 子数组最大平均数I | Easy | [643_子数组最大平均数I_easy.py](./python/643_子数组最大平均数I_easy.py) | [643_子数组最大平均数I_easy.cpp](./cpp/643_子数组最大平均数I_easy.cpp) |
 
 
 
