@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 3, March, 2021 by Fan Zhang
+Update on 4, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -107,6 +107,7 @@ Update on 3, March, 2021 by Fan Zhang
 | 304 | 二维区域和检索_矩阵不可变 | Medium | - | [304_二维区域和检索_矩阵不可变_medium.cpp](./cpp/304_二维区域和检索_矩阵不可变_medium.cpp) |
 | 643 | 子数组最大平均数I | Easy | [643_子数组最大平均数I_easy.py](./python/643_子数组最大平均数I_easy.py) | [643_子数组最大平均数I_easy.cpp](./cpp/643_子数组最大平均数I_easy.cpp) |
 | 338 | 比特位计数 | Medium | [338_比特位计数_medium.py](./python/338_比特位计数_medium.py) | [338_比特位计数_medium.cpp](./cpp/338_比特位计数_medium.cpp) |
+| 354 | 俄罗斯套娃信封问题 | Hard | [354_俄罗斯套娃信封问题_hard.py](./python/354_俄罗斯套娃信封问题_hard.py) | [354_俄罗斯套娃信封问题_hard.cpp](./cpp/354_俄罗斯套娃信封问题_hard.cpp) |
 
 
 
