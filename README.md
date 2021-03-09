@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 8, March, 2021 by Fan Zhang
+Update on 9, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -109,6 +109,7 @@ Update on 8, March, 2021 by Fan Zhang
 | 338 | 比特位计数 | Medium | [338_比特位计数_medium.py](./python/338_比特位计数_medium.py) | [338_比特位计数_medium.cpp](./cpp/338_比特位计数_medium.cpp) |
 | 354 | 俄罗斯套娃信封问题 | Hard | [354_俄罗斯套娃信封问题_hard.py](./python/354_俄罗斯套娃信封问题_hard.py) | [354_俄罗斯套娃信封问题_hard.cpp](./cpp/354_俄罗斯套娃信封问题_hard.cpp) |
 | 132 | 分割回文串_II | Hard | [132_分割回文串_II_hard.py](./python/132_分割回文串_II_hard.py) | [132_分割回文串_II_hard.cpp](./cpp/132_分割回文串_II_hard.cpp) |
+| 1047 | 删除字符串中的所有相邻重复项 | Easy | [1047_删除字符串中的所有相邻重复项_easy.py](./python/1047_删除字符串中的所有相邻重复项_easy.py) | [1047_删除字符串中的所有相邻重复项_easy.cpp](./cpp/1047_删除字符串中的所有相邻重复项_easy.cpp) |
 
 
 
