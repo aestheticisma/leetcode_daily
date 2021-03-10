@@ -111,6 +111,7 @@ Update on 10, March, 2021 by Fan Zhang
 | 132 | 分割回文串_II | Hard | [132_分割回文串_II_hard.py](./python/132_分割回文串_II_hard.py) | [132_分割回文串_II_hard.cpp](./cpp/132_分割回文串_II_hard.cpp) |
 | 1047 | 删除字符串中的所有相邻重复项 | Easy | [1047_删除字符串中的所有相邻重复项_easy.py](./python/1047_删除字符串中的所有相邻重复项_easy.py) | [1047_删除字符串中的所有相邻重复项_easy.cpp](./cpp/1047_删除字符串中的所有相邻重复项_easy.cpp) |
 | 224 | 基本计算器 | Hard | [224_基本计算器_hard.py](./python/224_基本计算器_hard.py) | [224_基本计算器_hard.cpp](./cpp/224_基本计算器_hard.cpp) |
+| 503 | 下一个更大元素II | Medium | [503_下一个更大元素II_medium.py](./python/503_下一个更大元素II_medium.py) | [503_下一个更大元素II_medium.cpp](./cpp/503_下一个更大元素II_medium.cpp) |
 
 
 
