@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 11, March, 2021 by Fan Zhang
+Update on 12, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -113,6 +113,7 @@ Update on 11, March, 2021 by Fan Zhang
 | 224 | 基本计算器 | Hard | [224_基本计算器_hard.py](./python/224_基本计算器_hard.py) | [224_基本计算器_hard.cpp](./cpp/224_基本计算器_hard.cpp) |
 | 503 | 下一个更大元素II | Medium | [503_下一个更大元素II_medium.py](./python/503_下一个更大元素II_medium.py) | [503_下一个更大元素II_medium.cpp](./cpp/503_下一个更大元素II_medium.cpp) |
 | 227 | 基本计算器II | Medium | [227_基本计算器II_medium.py](./python/227_基本计算器II_medium.py) | [227_基本计算器II_medium.cpp](./cpp/227_基本计算器II_medium.cpp) |
+| 331 | 验证二叉树的前序序列化 | Medium | [331_验证二叉树的前序序列化_medium.py](./python/331_验证二叉树的前序序列化_medium.py) | [331_验证二叉树的前序序列化_medium.cpp](./cpp/331_验证二叉树的前序序列化_medium.cpp) |
 
 
 
