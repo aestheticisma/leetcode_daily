@@ -115,6 +115,7 @@ Update on 13, March, 2021 by Fan Zhang
 | 227 | 基本计算器II | Medium | [227_基本计算器II_medium.py](./python/227_基本计算器II_medium.py) | [227_基本计算器II_medium.cpp](./cpp/227_基本计算器II_medium.cpp) |
 | 331 | 验证二叉树的前序序列化 | Medium | [331_验证二叉树的前序序列化_medium.py](./python/331_验证二叉树的前序序列化_medium.py) | [331_验证二叉树的前序序列化_medium.cpp](./cpp/331_验证二叉树的前序序列化_medium.cpp) |
 | 705 | 设计哈希集合 | Easy | [705_设计哈希集合_easy.py](./python/705_设计哈希集合_easy.py) | [705_设计哈希集合_easy.cpp](./cpp/705_设计哈希集合_easy.cpp) |
+| 706 | 设计哈希映射 | Easy | [706设计哈希映射_easy.py](./python/706设计哈希映射_easy.py) | [706设计哈希映射_easy.cpp](./cpp/706设计哈希映射_easy.cpp) |
 
 
 
