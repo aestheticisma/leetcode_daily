@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 16, March, 2021 by Fan Zhang
+Update on 17, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -118,6 +118,7 @@ Update on 16, March, 2021 by Fan Zhang
 | 706 | 设计哈希映射 | Easy | [706设计哈希映射_easy.py](./python/706设计哈希映射_easy.py) | [706设计哈希映射_easy.cpp](./cpp/706设计哈希映射_easy.cpp) |
 | 54 | 螺旋矩阵 | Medium | [54_螺旋矩阵_medium.py](./python/54_螺旋矩阵_medium.py) | [54_螺旋矩阵_medium.cpp](./cpp/54_螺旋矩阵_medium.cpp) |
 | 59 | 螺旋矩阵_II | Medium | --- | [59_螺旋矩阵_II_medium.cpp](./cpp/59_螺旋矩阵_II_medium.cpp) |
+| 115 | 不同的子序列 | Hard | [115_不同的子序列_hard.py](./python/115_不同的子序列_hard.py) | [115_不同的子序列_hard.cpp](./cpp/115_不同的子序列_hard.cpp) |
 
 
 
