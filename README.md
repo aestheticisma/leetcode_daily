@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, March, 2021 by Fan Zhang
+Update on 19, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -120,5 +120,6 @@ Update on 18, March, 2021 by Fan Zhang
 | 59 | 螺旋矩阵_II | Medium | --- | [59_螺旋矩阵_II_medium.cpp](./cpp/59_螺旋矩阵_II_medium.cpp) |
 | 115 | 不同的子序列 | Hard | [115_不同的子序列_hard.py](./python/115_不同的子序列_hard.py) | [115_不同的子序列_hard.cpp](./cpp/115_不同的子序列_hard.cpp) |
 | 92 | 反转链表II | Medium | [92_反转链表II_medium.py](./python/92_反转链表II_medium.py) | [92_反转链表II_medium.cpp](./cpp/92_反转链表II_medium.cpp)
+| 1603 | 设计停车系统 | Easy | [1603_设计停车系统_easy.py](./python/1603_设计停车系统_easy.py) | [1603_设计停车系统_easy.cpp](./cpp/1603_设计停车系统_easy.cpp)
 
 
