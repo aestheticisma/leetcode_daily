@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 19, March, 2021 by Fan Zhang
+Update on 21, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -122,5 +122,6 @@ Update on 19, March, 2021 by Fan Zhang
 | 92 | 反转链表II | Medium | [92_反转链表II_medium.py](./python/92_反转链表II_medium.py) | [92_反转链表II_medium.cpp](./cpp/92_反转链表II_medium.cpp)
 | 1603 | 设计停车系统 | Easy | [1603_设计停车系统_easy.py](./python/1603_设计停车系统_easy.py) | [1603_设计停车系统_easy.cpp](./cpp/1603_设计停车系统_easy.cpp)
 | 150 | 逆波兰表达式求值 | Medium | [150_逆波兰表达式求值_medium.py](./python/150_逆波兰表达式求值_medium.py) | [150_逆波兰表达式求值_medium.cpp](./cpp/150_逆波兰表达式求值_medium.cpp)
+| 73 | 矩阵置零 | Medium | [73_矩阵置零_medium.py](./python/73_矩阵置零_medium.py) | [73_矩阵置零_medium.cpp](./cpp/73_矩阵置零_medium.cpp)
 
 
