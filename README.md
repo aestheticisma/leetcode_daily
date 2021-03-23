@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 22, March, 2021 by Fan Zhang
+Update on 23, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -124,5 +124,6 @@ Update on 22, March, 2021 by Fan Zhang
 | 150 | 逆波兰表达式求值 | Medium | [150_逆波兰表达式求值_medium.py](./python/150_逆波兰表达式求值_medium.py) | [150_逆波兰表达式求值_medium.cpp](./cpp/150_逆波兰表达式求值_medium.cpp)
 | 73 | 矩阵置零 | Medium | [73_矩阵置零_medium.py](./python/73_矩阵置零_medium.py) | [73_矩阵置零_medium.cpp](./cpp/73_矩阵置零_medium.cpp)
 | 191 | 位1的个数 | Easy | [191_位1的个数_easy.py](./python/191_位1的个数_easy.py) | [191_位1的个数_easy.cpp](./cpp/191_位1的个数_easy.cpp)
+| 341 | 扁平化嵌套列表迭代器 | Medium | [341_扁平化嵌套列表迭代器_medium.py](./python/341_扁平化嵌套列表迭代器_medium.py) | [341_扁平化嵌套列表迭代器_medium.cpp](./cpp/341_扁平化嵌套列表迭代器_medium.cpp)
 
 
