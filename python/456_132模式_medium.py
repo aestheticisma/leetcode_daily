@@ -1,0 +1,14 @@
+class Solution:
+    def find132pattern(self, nums: List[int]) -> bool:
+        N = len(nums)
+        candidate_k = [nums[N-1]]
+        max_k = float("-inf")
+        for i in range(N-2, -1, -1):
+            if nums[i] < max_k:
+                return True
+            while candidate_k and nums[i] > candidate_k[-1]:
+                max_k = candidate_k[-1]
+                candidate_k.pop()
+            if nums[i] > max_k:
+                candidate_k.append(nums[i])
+        return False
