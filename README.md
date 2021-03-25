@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 24, March, 2021 by Fan Zhang
+Update on 25, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -126,5 +126,6 @@ Update on 24, March, 2021 by Fan Zhang
 | 191 | 位1的个数 | Easy | [191_位1的个数_easy.py](./python/191_位1的个数_easy.py) | [191_位1的个数_easy.cpp](./cpp/191_位1的个数_easy.cpp)
 | 341 | 扁平化嵌套列表迭代器 | Medium | [341_扁平化嵌套列表迭代器_medium.py](./python/341_扁平化嵌套列表迭代器_medium.py) | [341_扁平化嵌套列表迭代器_medium.cpp](./cpp/341_扁平化嵌套列表迭代器_medium.cpp)
 | 456 | 132模式 | Medium | [456_132模式_medium.py](./python/456_132模式_medium.py) | [456_132模式_medium.cpp](./cpp/456_132模式_medium.cpp)
+| 82 | 删除排序链表中的重复元素II | Medium | [82_删除排序链表中的重复元素II_meidum.py](./python/82_删除排序链表中的重复元素II_meidum.py) | [82_删除排序链表中的重复元素II_meidum.cpp](./cpp/82_删除排序链表中的重复元素II_meidum.cpp)
 
 
