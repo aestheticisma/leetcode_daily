@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 29, March, 2021 by Fan Zhang
+Update on 30, March, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -131,5 +131,6 @@ Update on 29, March, 2021 by Fan Zhang
 | 61 | 旋转链表 | Medium | [61_旋转链表_medium.py](./python/61_旋转链表_medium.py) | [61_旋转链表_medium.cpp](./cpp/61_旋转链表_medium.cpp)
 | 173 | 二叉搜索树迭代器 | Medium | [173_二叉搜索树迭代器_medium.py](./python/173_二叉搜索树迭代器_medium.py) | [173_二叉搜索树迭代器_medium.cpp](./cpp/173_二叉搜索树迭代器_medium.cpp)
 | 190 | 颠倒二进制位 | Easy | [190_颠倒二进制位_easy.py](./python/190_颠倒二进制位_easy.py) | [190_颠倒二进制位_easy.cpp](./cpp/190_颠倒二进制位_easy.cpp)
+| 74 | 搜索二维矩阵 | Medium | [74_搜索二维矩阵_medium.py](./python/74_搜索二维矩阵_medium.py) | [74_搜索二维矩阵_medium.cpp](./cpp/74_搜索二维矩阵_medium.cpp)
 
 
