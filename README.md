@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 31, March, 2021 by Fan Zhang
+Update on 1, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -134,5 +134,6 @@ Update on 31, March, 2021 by Fan Zhang
 | 74 | 搜索二维矩阵 | Medium | [74_搜索二维矩阵_medium.py](./python/74_搜索二维矩阵_medium.py) | [74_搜索二维矩阵_medium.cpp](./cpp/74_搜索二维矩阵_medium.cpp)
 | 23 | 合并k个升序链表 | Hard | [23_合并k个升序链表_hard.py](./python/23_合并k个升序链表_hard.py) | [23_合并k个升序链表_hard.cpp](./cpp/23_合并k个升序链表_hard.cpp)
 | 90 | 子集II | Medium | [90_子集II_medium.py](./python/90_子集II_medium.py) | [90_子集II_medium.cpp](./cpp/90_子集II_medium.cpp)
+| 1006 | 笨阶乘 | Medium | [1006_笨阶乘_medium.py](./python/1006_笨阶乘_medium.py) | [1006_笨阶乘_medium.cpp](./cpp/1006_笨阶乘_medium.cpp)
 
 
