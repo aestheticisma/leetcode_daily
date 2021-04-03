@@ -136,5 +136,6 @@ Update on 2, April, 2021 by Fan Zhang
 | 90 | 子集II | Medium | [90_子集II_medium.py](./python/90_子集II_medium.py) | [90_子集II_medium.cpp](./cpp/90_子集II_medium.cpp)
 | 1006 | 笨阶乘 | Medium | [1006_笨阶乘_medium.py](./python/1006_笨阶乘_medium.py) | [1006_笨阶乘_medium.cpp](./cpp/1006_笨阶乘_medium.cpp)
 | 面试题 17.21 | 直方图的水量 | Hard | [面试题_17_21_直方图的水量_hard.py](./python/面试题_17_21_直方图的水量_hard.py) | [面试题_17_21_直方图的水量_hard.cpp](./cpp/面试题_17_21_直方图的水量_hard.cpp)
+| 1143 | 最长公共子序列 | Medium | [1143_最长公共子序列_medium.py](./python/1143_最长公共子序列_medium.py) | [1143_最长公共子序列_medium.cpp](./cpp/1143_最长公共子序列_medium.cpp)
 
 
