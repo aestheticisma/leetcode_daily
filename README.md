@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 2, April, 2021 by Fan Zhang
+Update on 4, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -137,5 +137,6 @@ Update on 2, April, 2021 by Fan Zhang
 | 1006 | 笨阶乘 | Medium | [1006_笨阶乘_medium.py](./python/1006_笨阶乘_medium.py) | [1006_笨阶乘_medium.cpp](./cpp/1006_笨阶乘_medium.cpp)
 | 面试题 17.21 | 直方图的水量 | Hard | [面试题_17_21_直方图的水量_hard.py](./python/面试题_17_21_直方图的水量_hard.py) | [面试题_17_21_直方图的水量_hard.cpp](./cpp/面试题_17_21_直方图的水量_hard.cpp)
 | 1143 | 最长公共子序列 | Medium | [1143_最长公共子序列_medium.py](./python/1143_最长公共子序列_medium.py) | [1143_最长公共子序列_medium.cpp](./cpp/1143_最长公共子序列_medium.cpp)
+| 781 | 森林中的兔子 | Medium | [781_森林中的兔子_medium.py](./python/781_森林中的兔子_medium.py) | [781_森林中的兔子_medium.cpp](./cpp/781_森林中的兔子_medium.cpp)
 
 
