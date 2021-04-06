@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 6, April, 2021 by Fan Zhang
+Update on 7, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -140,5 +140,6 @@ Update on 6, April, 2021 by Fan Zhang
 | 781 | 森林中的兔子 | Medium | [781_森林中的兔子_medium.py](./python/781_森林中的兔子_medium.py) | [781_森林中的兔子_medium.cpp](./cpp/781_森林中的兔子_medium.cpp)
 | 88 | 合并两个有序数组 | Easy | [88_合并两个有序数组_easy.py](./python/88_合并两个有序数组_easy.py) | [88_合并两个有序数组_easy.cpp](./cpp/88_合并两个有序数组_easy.cpp)
 | 80 | 删除有序数组中的重复项_II | Medium | [80_删除有序数组中的重复项_II_medium.py](./python/80_删除有序数组中的重复项_II_medium.py) | [80_删除有序数组中的重复项_II_medium.cpp](./cpp/80_删除有序数组中的重复项_II_medium.cpp)
+| 81 | 搜索旋转排序数组_II | Medium | [81_搜索旋转排序数组_II_medium.py](./python/81_搜索旋转排序数组_II_medium.py) | [81_搜索旋转排序数组_II_medium.cpp](./cpp/81_搜索旋转排序数组_II_medium.cpp)
 
 
