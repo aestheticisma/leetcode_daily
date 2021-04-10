@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 9, April, 2021 by Fan Zhang
+Update on 10, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -143,5 +143,6 @@ Update on 9, April, 2021 by Fan Zhang
 | 81 | 搜索旋转排序数组_II | Medium | [81_搜索旋转排序数组_II_medium.py](./python/81_搜索旋转排序数组_II_medium.py) | [81_搜索旋转排序数组_II_medium.cpp](./cpp/81_搜索旋转排序数组_II_medium.cpp)
 | 153 | 寻找旋转排序数组中的最小值 | Medium | [153_寻找旋转排序数组中的最小值_medium.py](./python/153_寻找旋转排序数组中的最小值_medium.py) | [153_寻找旋转排序数组中的最小值_medium.cpp](./cpp/153_寻找旋转排序数组中的最小值_medium.cpp)
 | 154 | 寻找旋转排序数组中的最小值_II | Hard | [154_寻找旋转排序数组中的最小值_II_hard.py](./python/154_寻找旋转排序数组中的最小值_II_hard.py) | [154_寻找旋转排序数组中的最小值_II_hard.cpp](./cpp/154_寻找旋转排序数组中的最小值_II_hard.cpp)
+| 263 | 丑数 | Easy | [263_丑数_easy.py](./python/263_丑数_easy.py) | [263_丑数_easy.cpp](./cpp/263_丑数_easy.cpp)
 
 
