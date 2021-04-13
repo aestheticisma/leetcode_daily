@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 13, April, 2021 by Fan Zhang
+Update on 14, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -147,5 +147,6 @@ Update on 13, April, 2021 by Fan Zhang
 | 264 | 丑数_II | Medium | [264_丑数_II_medium.py](./python/264_丑数_II_medium.py) | [264_丑数_II_medium.cpp](./cpp/264_丑数_II_medium.cpp)
 | 179 | 最大数 | Medium | [179_最大数_medium.py](./python/179_最大数_medium.py) | [179_最大数_medium.cpp](./cpp/179_最大数_medium.cpp)
 | 783 | 二叉搜索树节点最小距离 | Easy | [783_二叉搜索树节点最小距离_easy.py](./python/783_二叉搜索树节点最小距离_easy.py) | [783_二叉搜索树节点最小距离_easy.cpp](./cpp/783_二叉搜索树节点最小距离_easy.cpp)
+| 208 | 实现 Trie (前缀树) | Medium | [208_实现Trie前缀树_medium.py](./python/208_实现Trie前缀树_medium.py) | [208_实现Trie前缀树_medium.cpp](./cpp/208_实现Trie前缀树_medium.cpp)
 
 
