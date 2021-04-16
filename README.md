@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 15, April, 2021 by Fan Zhang
+Update on 16, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -149,5 +149,6 @@ Update on 15, April, 2021 by Fan Zhang
 | 783 | 二叉搜索树节点最小距离 | Easy | [783_二叉搜索树节点最小距离_easy.py](./python/783_二叉搜索树节点最小距离_easy.py) | [783_二叉搜索树节点最小距离_easy.cpp](./cpp/783_二叉搜索树节点最小距离_easy.cpp)
 | 208 | 实现 Trie (前缀树) | Medium | [208_实现Trie前缀树_medium.py](./python/208_实现Trie前缀树_medium.py) | [208_实现Trie前缀树_medium.cpp](./cpp/208_实现Trie前缀树_medium.cpp)
 | 213 |  打家劫舍_II | Medium | [213_打家劫舍_II_medium.py](./python/213_打家劫舍_II_medium.py) | [213_打家劫舍_II_medium.cpp](./cpp/213_打家劫舍_II_medium.cpp)
+| 87 |  扰乱字符串 | Hard | [87_扰乱字符串_hard.py](./python/87_扰乱字符串_hard.py) | [87_扰乱字符串_hard.cpp](./cpp/87_扰乱字符串_hard.cpp)
 
 
