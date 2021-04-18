@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, April, 2021 by Fan Zhang
+Update on 19, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -151,5 +151,6 @@ Update on 18, April, 2021 by Fan Zhang
 | 213 |  打家劫舍_II | Medium | [213_打家劫舍_II_medium.py](./python/213_打家劫舍_II_medium.py) | [213_打家劫舍_II_medium.cpp](./cpp/213_打家劫舍_II_medium.cpp)
 | 87 |  扰乱字符串 | Hard | [87_扰乱字符串_hard.py](./python/87_扰乱字符串_hard.py) | [87_扰乱字符串_hard.cpp](./cpp/87_扰乱字符串_hard.cpp)
 | 26 |  删除有序数组中的重复项 | Easy | [26_删除有序数组中的重复项_easy.py](./python/26_删除有序数组中的重复项_easy.py) | [26_删除有序数组中的重复项_easy.cpp](./cpp/26_删除有序数组中的重复项_easy.cpp)
+| 27 |  移除元素 | Easy | [26_移除元素_easy.py](./python/26_移除元素_easy.py) | [26_移除元素_easy.cpp](./cpp/26_移除元素_easy.cpp)
 
 
