@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 23, April, 2021 by Fan Zhang
+Update on 24, April, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -156,5 +156,6 @@ Update on 23, April, 2021 by Fan Zhang
 | 91 |  解码方法 | Medium | [91_解码方法_medium.py](./python/91_解码方法_medium.py) | [91_解码方法_medium.cpp](./cpp/91_解码方法_medium.cpp)
 | 363 | 矩形区域不超过K的最大数值和 | Hard | [363_矩形区域不超过K的最大数值和_hard.py](./python/363_矩形区域不超过K的最大数值和_hard.py) | [363_矩形区域不超过K的最大数值和_hard.cpp](./cpp/363_矩形区域不超过K的最大数值和_hard.cpp)
 | 368 | 最大整数集 | Medium | [368_最大整数集_medium.py](./python/368_最大整数集_medium.py) | [368_最大整数集_medium.cpp](./cpp/368_最大整数集_medium.cpp)
+| 377 | 组合总和IV | Medium | [377_组合总和IV_medium.py](./python/377_组合总和IV_medium.py) | [377_组合总和IV_medium.cpp](./cpp/377_组合总和IV_medium.cpp)
 
 
