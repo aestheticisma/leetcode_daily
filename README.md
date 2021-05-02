@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 28, April, 2021 by Fan Zhang
+Update on 3, May, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -161,5 +161,6 @@ Update on 28, April, 2021 by Fan Zhang
 | 1011 | 在D天内送达包裹的能力 | Medium | [1011_在D天内送达包裹的能力_medium.py](./python/1011_在D天内送达包裹的能力_medium.py) | [1011_在D天内送达包裹的能力_medium.cpp](./cpp/1011_在D天内送达包裹的能力_medium.cpp)
 | 938 | 二叉搜索树的范围和 | Easy | [938_二叉搜索树的范围和_easy.py](./python/938_二叉搜索树的范围和_easy.py) | [938_二叉搜索树的范围和_easy.cpp](./cpp/938_二叉搜索树的范围和_easy.cpp)
 | 633 | 平方数之和 | Medium | [633_平方数之和_medium.py](./python/633_平方数之和_medium.py) | [633_平方数之和_medium.cpp](./cpp/633_平方数之和_medium.cpp)
+| 7 | 整数反转 | Easy | [7_整数反转_easy.py](./python/7_整数反转_easy.py) | [7_整数反转_easy.cpp](./cpp/7_整数反转_easy.cpp)
 
 
