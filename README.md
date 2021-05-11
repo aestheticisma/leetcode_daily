@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 11, May, 2021 by Fan Zhang
+Update on 12, May, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -164,5 +164,6 @@ Update on 11, May, 2021 by Fan Zhang
 | 7 | 整数反转 | Easy | [7_整数反转_easy.py](./python/7_整数反转_easy.py) | [7_整数反转_easy.cpp](./cpp/7_整数反转_easy.cpp)
 | 1486 | 数组异或操作 | Easy | [1486_数组异或操作_easy.py](./python/1486_数组异或操作_easy.py) | [1486_数组异或操作_easy.cpp](./cpp/1486_数组异或操作_easy.cpp)
 | 1734 | 解码异或后的排列 | Medium | [1734_解码异或后的排列_medium.py](./python/1734_解码异或后的排列_medium.py) | [1734_解码异或后的排列_medium.cpp](./cpp/1734_解码异或后的排列_medium.cpp)
+| 1310 | 子数组异或查询 | Medium | [1310_子数组异或查询_medium.py](./python/1310_子数组异或查询_medium.py) | [1310_子数组异或查询_medium.cpp](./cpp/1310_子数组异或查询_medium.cpp)
 
 
