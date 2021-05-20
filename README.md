@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 12, May, 2021 by Fan Zhang
+Update on 20, May, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -166,5 +166,6 @@ Update on 12, May, 2021 by Fan Zhang
 | 1734 | 解码异或后的排列 | Medium | [1734_解码异或后的排列_medium.py](./python/1734_解码异或后的排列_medium.py) | [1734_解码异或后的排列_medium.cpp](./cpp/1734_解码异或后的排列_medium.cpp)
 | 1310 | 子数组异或查询 | Medium | [1310_子数组异或查询_medium.py](./python/1310_子数组异或查询_medium.py) | [1310_子数组异或查询_medium.cpp](./cpp/1310_子数组异或查询_medium.cpp)
 | 1442 | 形成两个异或相等数组的三元组数目 | Medium | [1442_形成两个异或相等数组的三元组数目_medium.py](./python/1442_形成两个异或相等数组的三元组数目_medium.py) | [1442_形成两个异或相等数组的三元组数目_medium.cpp](./cpp/1442_形成两个异或相等数组的三元组数目_medium.cpp)
+| 692 | 前K个高频单词 | Medium | [692_前K个高频单词_medium.py](./python/692_前K个高频单词_medium.py) | [692_前K个高频单词_medium.cpp](./cpp/692_前K个高频单词_medium.cpp)
 
 
