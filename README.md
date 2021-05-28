@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 27, May, 2021 by Fan Zhang
+Update on 28, May, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -170,5 +170,6 @@ Update on 27, May, 2021 by Fan Zhang
 | 1787 | 使所有区间的异或结果为零 | Hard | [1787_使所有区间的异或结果为零_hard.py](./python/1787_使所有区间的异或结果为零_hard.py) | [1787_使所有区间的异或结果为零_hard.cpp](./cpp/1787_使所有区间的异或结果为零_hard.cpp)
 | 1190 | 反转每对括号间的子串 | Medium | [1190_反转每对括号间的子串_medium.py](./python/1190_反转每对括号间的子串_medium.py) | [1190_反转每对括号间的子串_medium.cpp](./cpp/1190_反转每对括号间的子串_medium.cpp)
 | 461 | 汉明距离 | Easy | [461_汉明距离_easy.py](./python/461_汉明距离_easy.py) | [461_汉明距离_easy.cpp](./cpp/461_汉明距离_easy.cpp)
+| 477 | 汉明距离总和 | Medium | [477_汉明距离总和_meidum.py](./python/477_汉明距离总和_meidum.py) | [477_汉明距离总和_meidum.cpp](./cpp/477_汉明距离总和_meidum.cpp)
 
 
