@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 28, May, 2021 by Fan Zhang
+Update on 29, May, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -171,5 +171,6 @@ Update on 28, May, 2021 by Fan Zhang
 | 1190 | 反转每对括号间的子串 | Medium | [1190_反转每对括号间的子串_medium.py](./python/1190_反转每对括号间的子串_medium.py) | [1190_反转每对括号间的子串_medium.cpp](./cpp/1190_反转每对括号间的子串_medium.cpp)
 | 461 | 汉明距离 | Easy | [461_汉明距离_easy.py](./python/461_汉明距离_easy.py) | [461_汉明距离_easy.cpp](./cpp/461_汉明距离_easy.cpp)
 | 477 | 汉明距离总和 | Medium | [477_汉明距离总和_meidum.py](./python/477_汉明距离总和_meidum.py) | [477_汉明距离总和_meidum.cpp](./cpp/477_汉明距离总和_meidum.cpp)
+| 1074 | 元素和为目标值的子矩阵数量 | Hard | [1074_元素和为目标值的子矩阵数量_hard.py](./python/1074_元素和为目标值的子矩阵数量_hard.py) | [1074_元素和为目标值的子矩阵数量_hard.cpp](./cpp/1074_元素和为目标值的子矩阵数量_hard.cpp)
 
 
