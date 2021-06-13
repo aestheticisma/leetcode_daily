@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 31, May, 2021 by Fan Zhang
+Update on 13, June, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -173,5 +173,6 @@ Update on 31, May, 2021 by Fan Zhang
 | 477 | 汉明距离总和 | Medium | [477_汉明距离总和_meidum.py](./python/477_汉明距离总和_meidum.py) | [477_汉明距离总和_meidum.cpp](./cpp/477_汉明距离总和_meidum.cpp)
 | 1074 | 元素和为目标值的子矩阵数量 | Hard | [1074_元素和为目标值的子矩阵数量_hard.py](./python/1074_元素和为目标值的子矩阵数量_hard.py) | [1074_元素和为目标值的子矩阵数量_hard.cpp](./cpp/1074_元素和为目标值的子矩阵数量_hard.cpp)
 | 342 | 4的幂 | easy | [342_4的幂_easy.py](./python/342_4的幂_easy.py) | [342_4的幂_easy.cpp](./cpp/342_4的幂_easy.cpp)
+| 278 | 第一个错误的版本 | easy | [278_第一个错误的版本_easy.py](./python/278_第一个错误的版本_easy.py) | [278_第一个错误的版本_easy.cpp](./cpp/278_第一个错误的版本_easy.cpp)
 
 
