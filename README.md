@@ -175,5 +175,6 @@ Update on 13, June, 2021 by Fan Zhang
 | 342 | 4的幂 | easy | [342_4的幂_easy.py](./python/342_4的幂_easy.py) | [342_4的幂_easy.cpp](./cpp/342_4的幂_easy.cpp)
 | 278 | 第一个错误的版本 | easy | [278_第一个错误的版本_easy.py](./python/278_第一个错误的版本_easy.py) | [278_第一个错误的版本_easy.cpp](./cpp/278_第一个错误的版本_easy.cpp)
 | LCP_07 | 传递信息 | easy | [LCP_07_传递信息_easy.py](./python/LCP_07_传递信息_easy.py) | [LCP_07_传递信息_easy.cpp](./cpp/LCP_07_传递信息_easy.cpp)
+| 1833 | 雪糕的最大数量 | Medium | [1833_雪糕的最大数量_medium.py](./python/1833_雪糕的最大数量_medium.py) | [1833_雪糕的最大数量_medium.cpp](./cpp/1833_雪糕的最大数量_medium.cpp)
 
 
