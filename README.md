@@ -178,5 +178,6 @@ Update on 10, July, 2021 by Fan Zhang
 | 1833 | 雪糕的最大数量 | Medium | [1833_雪糕的最大数量_medium.py](./python/1833_雪糕的最大数量_medium.py) | [1833_雪糕的最大数量_medium.cpp](./cpp/1833_雪糕的最大数量_medium.cpp)
 | 451 | 根据字符出现频率排序 | Medium | [451_根据字符出现频率排序_medium.py](./python/451_根据字符出现频率排序_medium.py) | 
 | 981 | 基于时间的键值存储 | Medium | [981_基于时间的键值存储_medium.py](./python/981_基于时间的键值存储_medium.py) | [981_基于时间的键值存储_medium.cpp](./cpp/981_基于时间的键值存储_medium.cpp) | 
+| 剑指Offer 42  | 连续子数组的最大和 | Easy | [剑指offer_42_连续子数组的最大和_easy.py](./python/剑指offer_42_连续子数组的最大和_easy.py) | [剑指offer_42_连续子数组的最大和_easy.cpp](./cpp/剑指offer_42_连续子数组的最大和_easy.cpp) | 
 
 
