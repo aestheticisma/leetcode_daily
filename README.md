@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 17, July, 2021 by Fan Zhang
+Update on 21, July, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -179,5 +179,6 @@ Update on 17, July, 2021 by Fan Zhang
 | 451 | 根据字符出现频率排序 | Medium | [451_根据字符出现频率排序_medium.py](./python/451_根据字符出现频率排序_medium.py) | 
 | 981 | 基于时间的键值存储 | Medium | [981_基于时间的键值存储_medium.py](./python/981_基于时间的键值存储_medium.py) | [981_基于时间的键值存储_medium.cpp](./cpp/981_基于时间的键值存储_medium.cpp) | 
 | 剑指Offer 42  | 连续子数组的最大和 | Easy | [剑指offer_42_连续子数组的最大和_easy.py](./python/剑指offer_42_连续子数组的最大和_easy.py) | [剑指offer_42_连续子数组的最大和_easy.cpp](./cpp/剑指offer_42_连续子数组的最大和_easy.cpp) | 
+| 剑指Offer 52  | 两个链表的第一个公共节点 | Easy | [剑指offer_52_两个链表的第一个公共节点_easy.py](./python/剑指offer_52_两个链表的第一个公共节点_easy.py) | [剑指offer_52_两个链表的第一个公共节点_easy.cpp](./cpp/剑指offer_52_两个链表的第一个公共节点_easy.cpp) | 
 
 
