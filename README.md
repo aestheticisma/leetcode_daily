@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 21, July, 2021 by Fan Zhang
+Update on 27, July, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -180,5 +180,7 @@ Update on 21, July, 2021 by Fan Zhang
 | 981 | 基于时间的键值存储 | Medium | [981_基于时间的键值存储_medium.py](./python/981_基于时间的键值存储_medium.py) | [981_基于时间的键值存储_medium.cpp](./cpp/981_基于时间的键值存储_medium.cpp) | 
 | 剑指Offer 42  | 连续子数组的最大和 | Easy | [剑指offer_42_连续子数组的最大和_easy.py](./python/剑指offer_42_连续子数组的最大和_easy.py) | [剑指offer_42_连续子数组的最大和_easy.cpp](./cpp/剑指offer_42_连续子数组的最大和_easy.cpp) | 
 | 剑指Offer 52  | 两个链表的第一个公共节点 | Easy | [剑指offer_52_两个链表的第一个公共节点_easy.py](./python/剑指offer_52_两个链表的第一个公共节点_easy.py) | [剑指offer_52_两个链表的第一个公共节点_easy.cpp](./cpp/剑指offer_52_两个链表的第一个公共节点_easy.cpp) | 
+| 1713 | 得到子序列的最少操作次数 | Hard | [1713_得到子序列的最少操作次数_hard.py](./python/1713_得到子序列的最少操作次数_hard.py) | [1713_得到子序列的最少操作次数_hard.cpp](./cpp/1713_得到子序列的最少操作次数_hard.cpp) | 
+| 671  | 二叉树中第二小的节点 | Easy | [671_二叉树中第二小的节点_easy.py](./python/671_二叉树中第二小的节点_easy.py) | [671_二叉树中第二小的节点_easy.cpp](./cpp/671_二叉树中第二小的节点_easy.cpp) | 
 
 
