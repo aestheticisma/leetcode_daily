@@ -1,4 +1,4 @@
-# leetcode_daily
+# Leetcode_daily
 ### Leetcode每日一题
 
 `一个懒狗的自我修养`
