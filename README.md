@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 28, July, 2021 by Fan Zhang
+Update on 1, August, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -183,5 +183,6 @@ Update on 28, July, 2021 by Fan Zhang
 | 1713 | 得到子序列的最少操作次数 | Hard | [1713_得到子序列的最少操作次数_hard.py](./python/1713_得到子序列的最少操作次数_hard.py) | [1713_得到子序列的最少操作次数_hard.cpp](./cpp/1713_得到子序列的最少操作次数_hard.cpp) | 
 | 671  | 二叉树中第二小的节点 | Easy | [671_二叉树中第二小的节点_easy.py](./python/671_二叉树中第二小的节点_easy.py) | [671_二叉树中第二小的节点_easy.cpp](./cpp/671_二叉树中第二小的节点_easy.cpp) | 
 | 863  | 二叉树中所有距离为K的结点 | Medium | [863_二叉树中所有距离为K的结点_meidum.py](./python/863_二叉树中所有距离为K的结点_meidum.py) | [863_二叉树中所有距离为K的结点_meidum.cpp](./cpp/863_二叉树中所有距离为K的结点_meidum.cpp) | 
+| 1337  | 矩阵中战斗力最弱的K行 | Easy | [1337_矩阵中战斗力最弱的K行_easy.py](./python/1337_矩阵中战斗力最弱的K行_easy.py) | []() | 
 
 
