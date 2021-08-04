@@ -186,5 +186,6 @@ Update on 3, August, 2021 by Fan Zhang
 | 1337  | 矩阵中战斗力最弱的K行 | Easy | [1337_矩阵中战斗力最弱的K行_easy.py](./python/1337_矩阵中战斗力最弱的K行_easy.py) | []() | 
 | 743  | 网络延迟时间 | Medium | [743_网络延迟时间_medium.py](./python/743_网络延迟时间_medium.py) | [743_网络延迟时间_medium.cpp](./cpp/743_网络延迟时间_medium.cpp) | 
 | 581  | 最短无序连续子数组 | Medium | [581_最短无序连续子数组_medium.py](./python/581_最短无序连续子数组_medium.py) | [581_最短无序连续子数组_medium.cpp](./cpp/581_最短无序连续子数组_medium.cpp) | 
+| 611  | 有效三角形的个数 | Medium | [611_有效三角形的个数_medium.py](./python/611_有效三角形的个数_medium.py) | [611_有效三角形的个数_medium.cpp](./cpp/611_有效三角形的个数_medium.cpp) | 
 
 
