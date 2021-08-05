@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 3, August, 2021 by Fan Zhang
+Update on 5, August, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -187,5 +187,6 @@ Update on 3, August, 2021 by Fan Zhang
 | 743  | 网络延迟时间 | Medium | [743_网络延迟时间_medium.py](./python/743_网络延迟时间_medium.py) | [743_网络延迟时间_medium.cpp](./cpp/743_网络延迟时间_medium.cpp) | 
 | 581  | 最短无序连续子数组 | Medium | [581_最短无序连续子数组_medium.py](./python/581_最短无序连续子数组_medium.py) | [581_最短无序连续子数组_medium.cpp](./cpp/581_最短无序连续子数组_medium.cpp) | 
 | 611  | 有效三角形的个数 | Medium | [611_有效三角形的个数_medium.py](./python/611_有效三角形的个数_medium.py) | [611_有效三角形的个数_medium.cpp](./cpp/611_有效三角形的个数_medium.cpp) | 
+| 802  | 找到最终的安全状态 | Medium | [802_找到最终的安全状态_medium.py](./python/802_找到最终的安全状态_medium.py) | [802_找到最终的安全状态_medium.cpp](./cpp/802_找到最终的安全状态_medium.cpp) | 
 
 
