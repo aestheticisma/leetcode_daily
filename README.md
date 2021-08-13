@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 6, August, 2021 by Fan Zhang
+Update on 14, August, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -189,5 +189,6 @@ Update on 6, August, 2021 by Fan Zhang
 | 611  | 有效三角形的个数 | Medium | [611_有效三角形的个数_medium.py](./python/611_有效三角形的个数_medium.py) | [611_有效三角形的个数_medium.cpp](./cpp/611_有效三角形的个数_medium.cpp) | 
 | 802  | 找到最终的安全状态 | Medium | [802_找到最终的安全状态_medium.py](./python/802_找到最终的安全状态_medium.py) | [802_找到最终的安全状态_medium.cpp](./cpp/802_找到最终的安全状态_medium.cpp) | 
 | 847  | 访问所有节点的最短路径 | Hard | [847_访问所有节点的最短路径_hard.py](./python/847_访问所有节点的最短路径_hard.py) | [847_访问所有节点的最短路径_hard.cpp](./cpp/847_访问所有节点的最短路径_hard.cpp) | 
+| 1583  | 统计不开心的朋友 | Medium | [1583_统计不开心的朋友_medium.py](./python/1583_统计不开心的朋友_medium.py) | [1583_统计不开心的朋友_medium.cpp](./cpp/1583_统计不开心的朋友_medium.cpp) | 
 
 
