@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, Aug, 2021 by Fan Zhang
+Update on 15, Aug, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -190,5 +190,6 @@ Update on 14, Aug, 2021 by Fan Zhang
 | 802  | 找到最终的安全状态 | Medium | [802_找到最终的安全状态_medium.py](./python/802_找到最终的安全状态_medium.py) | [802_找到最终的安全状态_medium.cpp](./cpp/802_找到最终的安全状态_medium.cpp) | 
 | 847  | 访问所有节点的最短路径 | Hard | [847_访问所有节点的最短路径_hard.py](./python/847_访问所有节点的最短路径_hard.py) | [847_访问所有节点的最短路径_hard.cpp](./cpp/847_访问所有节点的最短路径_hard.cpp) | 
 | 1583  | 统计不开心的朋友 | Medium | [1583_统计不开心的朋友_medium.py](./python/1583_统计不开心的朋友_medium.py) | [1583_统计不开心的朋友_medium.cpp](./cpp/1583_统计不开心的朋友_medium.cpp) | 
+| 576  | 出界的路径数 | Medium | [576_出界的路径数_medium.py](./python/576_出界的路径数_medium.py) | [576_出界的路径数_medium.cpp](./cpp/576_出界的路径数_medium.cpp) | 
 
 
