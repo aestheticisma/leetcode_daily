@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 21, Aug, 2021 by Fan Zhang
+Update on 1, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -193,5 +193,6 @@ Update on 21, Aug, 2021 by Fan Zhang
 | 576  | 出界的路径数 | Medium | [576_出界的路径数_medium.py](./python/576_出界的路径数_medium.py) | [576_出界的路径数_medium.cpp](./cpp/576_出界的路径数_medium.cpp) | 
 | 345  | 反转字符串中的元音字母 | Easy | [345_反转字符串中的元音字母_easy.py](./python/345_反转字符串中的元音字母_easy.py) | [345_反转字符串中的元音字母_easy.cpp](./cpp/345_反转字符串中的元音字母_easy.cpp) | 
 | 443  | 压缩字符串 | Medium | [443_压缩字符串_medium.py](./python/443_压缩字符串_medium.py) | [443_压缩字符串_medium.cpp](./cpp/443_压缩字符串_medium.cpp) | 
+| 165  | 比较版本号 | Medium | [165_比较版本号_medium.py](./python/165_比较版本号_medium.py) | [165_比较版本号_medium.cpp](./cpp/165_比较版本号_medium.cpp) | 
 
 
