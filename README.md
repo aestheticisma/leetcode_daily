@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 3, Sep, 2021 by Fan Zhang
+Update on 4, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -195,5 +195,6 @@ Update on 3, Sep, 2021 by Fan Zhang
 | 443  | 压缩字符串 | Medium | [443_压缩字符串_medium.py](./python/443_压缩字符串_medium.py) | [443_压缩字符串_medium.cpp](./cpp/443_压缩字符串_medium.cpp) | 
 | 剑指offer  | 链表中倒数第k个节点 | Easy | [剑指offer_链表中倒数第k个节点_easy.py](./python/剑指offer_链表中倒数第k个节点_easy.py) | [剑指offer_链表中倒数第k个节点_easy.cpp](./cpp/剑指offer_链表中倒数第k个节点_easy.cpp) | 
 | 面试题 17.14. 最小K个数  | 最小K个数 | Medium | [面试题17_14_最小K个数_medium.py](./python/面试题17_14_最小K个数_medium.py) | [面试题17_14_最小K个数_medium.cpp](./cpp/面试题17_14_最小K个数_medium.cpp) | 
+| 剑指offer_10_1_斐波那契数列  | 剑指offer_10_1_斐波那契数列 | Easy | [剑指offer_10_1_斐波那契数列.py](./python/剑指offer_10_1_斐波那契数列.py) | [剑指offer_10_1_斐波那契数列.cpp](./cpp/剑指offer_10_1_斐波那契数列.cpp) | 
 
 
