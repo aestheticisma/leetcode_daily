@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 6, Sep, 2021 by Fan Zhang
+Update on 7, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -198,5 +198,6 @@ Update on 6, Sep, 2021 by Fan Zhang
 | 剑指offer_10_1_斐波那契数列  | 剑指offer_10_1_斐波那契数列 | Easy | [剑指offer_10_1_斐波那契数列.py](./python/剑指offer_10_1_斐波那契数列.py) | [剑指offer_10_1_斐波那契数列.cpp](./cpp/剑指offer_10_1_斐波那契数列.cpp) | 
 | 470_用Rand7()实现Rand10()  | 470_用Rand7()实现Rand10() | Medium | [470_用Rand7实现Rand10.py](./python/470_用Rand7实现Rand10.py) | [470_用Rand7实现Rand10.cpp](./cpp/470_用Rand7实现Rand10.cpp) | 
 | 704  | 二分查找 | Easy | [704_二分查找_easy.py](./python/704_二分查找_easy.py) | [704_二分查找_easy.cpp](./cpp/704_二分查找_easy.cpp) | 
+| 1221  | 分割平衡字符串 | Easy | [1221_分割平衡字符串_easy.py](./python/1221_分割平衡字符串_easy.py) | [1221_分割平衡字符串_easy.cpp](./cpp/1221_分割平衡字符串_easy.cpp) | 
 
 
