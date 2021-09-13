@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 8, Sep, 2021 by Fan Zhang
+Update on 13, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -200,5 +200,6 @@ Update on 8, Sep, 2021 by Fan Zhang
 | 704  | 二分查找 | Easy | [704_二分查找_easy.py](./python/704_二分查找_easy.py) | [704_二分查找_easy.cpp](./cpp/704_二分查找_easy.cpp) | 
 | 1221  | 分割平衡字符串 | Easy | [1221_分割平衡字符串_easy.py](./python/1221_分割平衡字符串_easy.py) | [1221_分割平衡字符串_easy.cpp](./cpp/1221_分割平衡字符串_easy.cpp) | 
 | 502  | IPO | Hard | [502_IPO_hard.py](./python/502_IPO_hard.py) | [502_IPO_hard.cpp](./cpp/502_IPO_hard.cpp) | 
+| 447  | 回旋镖的数量 | Medium | [447_回旋镖的数量_medium.py](./python/447_回旋镖的数量_medium.py) | [447_回旋镖的数量_medium.cpp](./cpp/447_回旋镖的数量_medium.cpp) | 
 
 
