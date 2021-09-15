@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, Sep, 2021 by Fan Zhang
+Update on 15, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -202,5 +202,6 @@ Update on 14, Sep, 2021 by Fan Zhang
 | 502  | IPO | Hard | [502_IPO_hard.py](./python/502_IPO_hard.py) | [502_IPO_hard.cpp](./cpp/502_IPO_hard.cpp) | 
 | 447  | 回旋镖的数量 | Medium | [447_回旋镖的数量_medium.py](./python/447_回旋镖的数量_medium.py) | [447_回旋镖的数量_medium.cpp](./cpp/447_回旋镖的数量_medium.cpp) | 
 | 524  | 通过删除字母匹配到字典里最长单词 | Medium | [524_通过删除字母匹配到字典里最长单词_medium.py](./python/524_通过删除字母匹配到字典里最长单词_medium.py) | [524_通过删除字母匹配到字典里最长单词_medium.cpp](./cpp/524_通过删除字母匹配到字典里最长单词_medium.cpp) | 
+| 162  | 寻找峰值 | Medium | [162_寻找峰值_medium.py](./python/162_寻找峰值_medium.py) | [162_寻找峰值_medium.cpp](./cpp/162_寻找峰值_medium.cpp) | 
 
 
