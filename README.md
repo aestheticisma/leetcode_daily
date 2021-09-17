@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 17, Sep, 2021 by Fan Zhang
+Update on 18, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -205,5 +205,6 @@ Update on 17, Sep, 2021 by Fan Zhang
 | 162  | 寻找峰值 | Medium | [162_寻找峰值_medium.py](./python/162_寻找峰值_medium.py) | [162_寻找峰值_medium.cpp](./cpp/162_寻找峰值_medium.cpp) | 
 | 212  | 单词搜索_II | Hard | [212_单词搜索_II_hard.py](./python/212_单词搜索_II_hard.py) | [212_单词搜索_II_hard.cpp](./cpp/212_单词搜索_II_hard.cpp) | 
 | 36  | 有效的数独 | Medium | [36_有效的数独_medium.py](./python/36_有效的数独_medium.py) | [36_有效的数独_medium.cpp](./cpp/36_有效的数独_medium.cpp) | 
+| 292  | Nim游戏 | Easy | [292_Nim游戏_medium.py](./python/292_Nim游戏_medium.py) | [292_Nim游戏_medium.cpp](./cpp/292_Nim游戏_medium.cpp) | 
 
 
