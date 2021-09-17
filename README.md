@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 16, Sep, 2021 by Fan Zhang
+Update on 17, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -204,5 +204,6 @@ Update on 16, Sep, 2021 by Fan Zhang
 | 524  | 通过删除字母匹配到字典里最长单词 | Medium | [524_通过删除字母匹配到字典里最长单词_medium.py](./python/524_通过删除字母匹配到字典里最长单词_medium.py) | [524_通过删除字母匹配到字典里最长单词_medium.cpp](./cpp/524_通过删除字母匹配到字典里最长单词_medium.cpp) | 
 | 162  | 寻找峰值 | Medium | [162_寻找峰值_medium.py](./python/162_寻找峰值_medium.py) | [162_寻找峰值_medium.cpp](./cpp/162_寻找峰值_medium.cpp) | 
 | 212  | 单词搜索_II | Hard | [212_单词搜索_II_hard.py](./python/212_单词搜索_II_hard.py) | [212_单词搜索_II_hard.cpp](./cpp/212_单词搜索_II_hard.cpp) | 
+| 36  | 有效的数独 | Medium | [36_有效的数独_medium.py](./python/36_有效的数独_medium.py) | [36_有效的数独_medium.cpp](./cpp/36_有效的数独_medium.cpp) | 
 
 
