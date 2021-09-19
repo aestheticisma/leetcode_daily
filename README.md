@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, Sep, 2021 by Fan Zhang
+Update on 19, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -206,5 +206,6 @@ Update on 18, Sep, 2021 by Fan Zhang
 | 212  | 单词搜索_II | Hard | [212_单词搜索_II_hard.py](./python/212_单词搜索_II_hard.py) | [212_单词搜索_II_hard.cpp](./cpp/212_单词搜索_II_hard.cpp) | 
 | 36  | 有效的数独 | Medium | [36_有效的数独_medium.py](./python/36_有效的数独_medium.py) | [36_有效的数独_medium.cpp](./cpp/36_有效的数独_medium.cpp) | 
 | 292  | Nim游戏 | Easy | [292_Nim游戏_medium.py](./python/292_Nim游戏_medium.py) | [292_Nim游戏_medium.cpp](./cpp/292_Nim游戏_medium.cpp) | 
+| 650  | 只有两个键的键盘 | Medium | [650_只有两个键的键盘_medium.py](./python/650_只有两个键的键盘_medium.py) | [650_只有两个键的键盘_medium.cpp](./cpp/650_只有两个键的键盘_medium.cpp) | 
 
 
