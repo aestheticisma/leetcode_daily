@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 22, Sep, 2021 by Fan Zhang
+Update on 24, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -209,5 +209,6 @@ Update on 22, Sep, 2021 by Fan Zhang
 | 650  | 只有两个键的键盘 | Medium | [650_只有两个键的键盘_medium.py](./python/650_只有两个键的键盘_medium.py) | [650_只有两个键的键盘_medium.cpp](./cpp/650_只有两个键的键盘_medium.cpp) | 
 | 725  | 分隔链表 | Medium | [725_分隔链表_medium.py]() | [725_分隔链表_medium.cpp](./cpp/725_分隔链表_medium.cpp) | 
 | 326  | 3的幂 | Easy | [326_3的幂_easy.py](./python/326_3的幂_easy.py) | [326_3的幂_easy.cpp](./cpp/326_3的幂_easy.cpp) | 
+| 430  | 扁平化多级双向链表 | Medium | [430_扁平化多级双向链表_medium.py](./python/430_扁平化多级双向链表_medium.py) | [430_扁平化多级双向链表_medium.cpp](./cpp/430_扁平化多级双向链表_medium.cpp) | 
 
 
