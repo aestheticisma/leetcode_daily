@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 25, Sep, 2021 by Fan Zhang
+Update on 26, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -211,5 +211,6 @@ Update on 25, Sep, 2021 by Fan Zhang
 | 326  | 3的幂 | Easy | [326_3的幂_easy.py](./python/326_3的幂_easy.py) | [326_3的幂_easy.cpp](./cpp/326_3的幂_easy.cpp) | 
 | 430  | 扁平化多级双向链表 | Medium | [430_扁平化多级双向链表_medium.py](./python/430_扁平化多级双向链表_medium.py) | [430_扁平化多级双向链表_medium.cpp](./cpp/430_扁平化多级双向链表_medium.cpp) | 
 | 583  | 两个字符串的删除操作 | Medium | [583_两个字符串的删除操作_medium.py](./python/583_两个字符串的删除操作_medium.py) | [583_两个字符串的删除操作_medium.cpp](./cpp/583_两个字符串的删除操作_medium.cpp) | 
+| 371  | 两整数之和 | Medium |  | [371_两整数之和_medium.cpp](./cpp/371_两整数之和_medium.cpp) | 
 
 
