@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 29, Sep, 2021 by Fan Zhang
+Update on 30, Sep, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -215,5 +215,6 @@ Update on 29, Sep, 2021 by Fan Zhang
 | 639  | 解码方法_II | Hard |  | [639_解码方法_II_hard.cpp](./cpp/639_解码方法_II_hard.cpp) | 
 | 437  | 路径总和_III | Medium | [437_路径总和_III_medium.py](./python/437_路径总和_III_medium.py)  | [437_路径总和_III_medium.cpp](./cpp/437_路径总和_III_medium.cpp) | 
 | 517  | 超级洗衣机 | Hard | [517_超级洗衣机_hard.py](./python/517_超级洗衣机_hard.py)  | [517_超级洗衣机_hard.cpp](./cpp/517_超级洗衣机_hard.cpp) | 
+| 223  | 矩形面积 | Medium | [223_矩形面积_medium.py](./python/223_矩形面积_medium.py)  | [223_矩形面积_medium.cpp](./cpp/223_矩形面积_medium.cpp) | 
 
 
