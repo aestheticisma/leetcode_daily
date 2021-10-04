@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 2, Oct, 2021 by Fan Zhang
+Update on 4, Oct, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -217,5 +217,6 @@ Update on 2, Oct, 2021 by Fan Zhang
 | 517  | 超级洗衣机 | Hard | [517_超级洗衣机_hard.py](./python/517_超级洗衣机_hard.py)  | [517_超级洗衣机_hard.cpp](./cpp/517_超级洗衣机_hard.cpp) | 
 | 223  | 矩形面积 | Medium | [223_矩形面积_medium.py](./python/223_矩形面积_medium.py)  | [223_矩形面积_medium.cpp](./cpp/223_矩形面积_medium.cpp) | 
 | 405  | 数字转换为十六进制数 | Easy |  | [405_数字转换为十六进制数_easy.cpp](./cpp/405_数字转换为十六进制数_easy.cpp) | 
+| 482  | 密钥格式化 | Easy | [482_密钥格式化_easy.py](./cpp/482_密钥格式化_easy.py)  | [482_密钥格式化_easy.cpp](./cpp/482_密钥格式化_easy.cpp) | 
 
 
