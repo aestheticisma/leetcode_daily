@@ -219,5 +219,6 @@ Update on 4, Oct, 2021 by Fan Zhang
 | 405  | 数字转换为十六进制数 | Easy |  | [405_数字转换为十六进制数_easy.cpp](./cpp/405_数字转换为十六进制数_easy.cpp) | 
 | 166  | 分数到小数 | Medium | | [166_分数到小数_medium.cpp](./cpp/166_分数到小数_medium.cpp) | 
 | 482  | 密钥格式化 | Easy | [482_密钥格式化_easy.py](./python/482_密钥格式化_easy.py)  | [482_密钥格式化_easy.cpp](./cpp/482_密钥格式化_easy.cpp) | 
+| 434  | 字符串中的单词数 | Easy | [434_字符串中的单词数_easy.py](./python/434_字符串中的单词数_easy.py)  | [434_字符串中的单词数_easy.cpp](./cpp/434_字符串中的单词数_easy.cpp) | 
 
 
