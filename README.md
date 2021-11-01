@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 4, Oct, 2021 by Fan Zhang
+Update on 1, Nov, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
