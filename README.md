@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 3, Dec, 2021 by Fan Zhang
+Update on 4, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -222,5 +222,6 @@ Update on 3, Dec, 2021 by Fan Zhang
 | 434  | 字符串中的单词数 | Easy | [434_字符串中的单词数_easy.py](./python/434_字符串中的单词数_easy.py)  | [434_字符串中的单词数_easy.cpp](./cpp/434_字符串中的单词数_easy.cpp) | 
 | 575  | 分糖果 | Easy | [575_分糖果_easy.py](./python/575_分糖果_easy.py)  | [575_分糖果_easy.cpp](./cpp/575_分糖果_easy.cpp) | 
 | 1005  | K次取反后最大化的数组和 | Easy | []()  | [1005_K次取反后最大化的数组和_easy.cpp](./cpp/1005_K次取反后最大化的数组和_easy.cpp) | 
+| 383  | 赎金信 | Easy | []()  | [383_赎金信_easy.cpp](./cpp/383_赎金信_easy.cpp) | 
 
 
