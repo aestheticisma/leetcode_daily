@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 5, Dec, 2021 by Fan Zhang
+Update on 6, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -224,5 +224,6 @@ Update on 5, Dec, 2021 by Fan Zhang
 | 1005  | K次取反后最大化的数组和 | Easy | []()  | [1005_K次取反后最大化的数组和_easy.cpp](./cpp/1005_K次取反后最大化的数组和_easy.cpp) | 
 | 383  | 赎金信 | Easy | []()  | [383_赎金信_easy.cpp](./cpp/383_赎金信_easy.cpp) | 
 | 372  | 超级次方 | Medium | []()  | [372_超级次方_medium.cpp](./cpp/372_超级次方_medium.cpp) | 
+| 1816  | 截断句子 | Easy | []()  | [1816_截断句子_easy.cpp](./cpp/1816_截断句子_easy.cpp) | 
 
 
