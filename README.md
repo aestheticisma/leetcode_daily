@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 10, Dec, 2021 by Fan Zhang
+Update on 11, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -226,5 +226,6 @@ Update on 10, Dec, 2021 by Fan Zhang
 | 372  | 超级次方 | Medium | []()  | [372_超级次方_medium.cpp](./cpp/372_超级次方_medium.cpp) | 
 | 1816  | 截断句子 | Easy | []()  | [1816_截断句子_easy.cpp](./cpp/1816_截断句子_easy.cpp) | 
 | 748  | 最短补全词 | Easy | []()  | [748_最短补全词_easy.cpp](./cpp/748_最短补全词_easy.cpp) | 
+| 911  | 在线选举 | Medium | []()  | [911_在线选举_meidum.cpp](./cpp/911_在线选举_meidum.cpp) | 
 
 
