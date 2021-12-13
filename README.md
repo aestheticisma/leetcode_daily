@@ -228,5 +228,6 @@ Update on 13, Dec, 2021 by Fan Zhang
 | 748  | 最短补全词 | Easy | []()  | [748_最短补全词_easy.cpp](./cpp/748_最短补全词_easy.cpp) | 
 | 911  | 在线选举 | Medium | []()  | [911_在线选举_meidum.cpp](./cpp/911_在线选举_meidum.cpp) | 
 | 807  | 保持城市天际线 | Medium | []()  | [807_保持城市天际线_meidum.cpp](./cpp/807_保持城市天际线_meidum.cpp) | 
+| 630  | 课程表_III | Hard | []()  | [630_课程表_III_hard.cpp](./cpp/630_课程表_III_hard.cpp) | 
 
 
