@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, Dec, 2021 by Fan Zhang
+Update on 15, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -229,5 +229,6 @@ Update on 14, Dec, 2021 by Fan Zhang
 | 911  | 在线选举 | Medium | []()  | [911_在线选举_meidum.cpp](./cpp/911_在线选举_meidum.cpp) | 
 | 807  | 保持城市天际线 | Medium | []()  | [807_保持城市天际线_meidum.cpp](./cpp/807_保持城市天际线_meidum.cpp) | 
 | 630  | 课程表_III | Hard | []()  | [630_课程表_III_hard.cpp](./cpp/630_课程表_III_hard.cpp) | 
+| 851  | 喧闹和富有 | Medium | []()  | [851_喧闹和富有_medium.cpp](./cpp/851_喧闹和富有_medium.cpp) | 
 
 
