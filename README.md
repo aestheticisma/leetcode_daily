@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 17, Dec, 2021 by Fan Zhang
+Update on 20, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -231,5 +231,6 @@ Update on 17, Dec, 2021 by Fan Zhang
 | 630  | 课程表_III | Hard | []()  | [630_课程表_III_hard.cpp](./cpp/630_课程表_III_hard.cpp) | 
 | 851  | 喧闹和富有 | Medium | []()  | [851_喧闹和富有_medium.cpp](./cpp/851_喧闹和富有_medium.cpp) | 
 | 1518  | 换酒问题 | Easy | []()  | [1518_换酒问题_easy.cpp](./cpp/1518_换酒问题_easy.cpp) | 
+| 475  | 供暖器 | Medium | []()  | [475_供暖器_medium.cpp](./cpp/475_供暖器_medium.cpp) | 
 
 
