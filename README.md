@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 21, Dec, 2021 by Fan Zhang
+Update on 24, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -233,5 +233,6 @@ Update on 21, Dec, 2021 by Fan Zhang
 | 1518  | 换酒问题 | Easy | []()  | [1518_换酒问题_easy.cpp](./cpp/1518_换酒问题_easy.cpp) | 
 | 475  | 供暖器 | Medium | []()  | [475_供暖器_medium.cpp](./cpp/475_供暖器_medium.cpp) | 
 | 1154  | 一年中的第几天 | Easy | []()  | [1154_一年中的第几天_easy.cpp](./cpp/1154_一年中的第几天_easy.cpp) | 
+| 1705  | 吃苹果的最大数目 | Medium | []()  | [1705_吃苹果的最大数目_medium.cpp](./cpp/1705_吃苹果的最大数目_medium.cpp) | 
 
 
