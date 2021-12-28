@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 27, Dec, 2021 by Fan Zhang
+Update on 28, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -236,5 +236,6 @@ Update on 27, Dec, 2021 by Fan Zhang
 | 1705  | 吃苹果的最大数目 | Medium | []()  | [1705_吃苹果的最大数目_medium.cpp](./cpp/1705_吃苹果的最大数目_medium.cpp) | 
 | 1078  | Bigram分词 | easy | []()  | [1078_Bigram分词_easy.cpp](./cpp/1078_Bigram分词_easy.cpp) | 
 | 825  | 适龄的朋友 | Medium | []()  | [825_适龄的朋友_medium.cpp](./cpp/825_适龄的朋友_medium.cpp) | 
+| 472  | 连接词 | Hard | []()  | [472_连接词_hard.cpp](./cpp/472_连接词_hard.cpp) | 
 
 
