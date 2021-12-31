@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 30, Dec, 2021 by Fan Zhang
+Update on 31, Dec, 2021 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -239,5 +239,6 @@ Update on 30, Dec, 2021 by Fan Zhang
 | 472  | 连接词 | Hard | []()  | [472_连接词_hard.cpp](./cpp/472_连接词_hard.cpp) | 
 | 1995  | 统计特殊四元组 | Easy | []()  | [1995_统计特殊四元组_easy.cpp](./cpp/1995_统计特殊四元组_easy.cpp) | 
 | 846  | 一手顺子 | Medium | []()  | [846_一手顺子_medium.cpp](./cpp/846_一手顺子_medium.cpp) | 
+| 507  | 完美数 | Easy | []()  | [507_完美数_easy.cpp](./cpp/507_完美数_easy.cpp) | 
 
 
