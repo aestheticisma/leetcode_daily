@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 1, Jan, 2022 by Fan Zhang
+Update on 2, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -241,5 +241,6 @@ Update on 1, Jan, 2022 by Fan Zhang
 | 846  | 一手顺子 | Medium | []()  | [846_一手顺子_medium.cpp](./cpp/846_一手顺子_medium.cpp) | 
 | 507  | 完美数 | Easy | []()  | [507_完美数_easy.cpp](./cpp/507_完美数_easy.cpp) | 
 | 2022  | 将一维数组转变成二维数组 | Easy | []()  | [2022_将一维数组转变成二维数组_easy.cpp](./cpp/2022_将一维数组转变成二维数组_easy.cpp) | 
+| 390  | 消除游戏 | Medium | []()  | [390_消除游戏_medium.cpp](./cpp/390_消除游戏_medium.cpp) | 
 
 
