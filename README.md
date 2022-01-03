@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 3, Jan, 2022 by Fan Zhang
+Update on 4, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -243,5 +243,6 @@ Update on 3, Jan, 2022 by Fan Zhang
 | 2022  | 将一维数组转变成二维数组 | Easy | []()  | [2022_将一维数组转变成二维数组_easy.cpp](./cpp/2022_将一维数组转变成二维数组_easy.cpp) | 
 | 390  | 消除游戏 | Medium | []()  | [390_消除游戏_medium.cpp](./cpp/390_消除游戏_medium.cpp) | 
 | 1185  | 一周中的第几天 | Easy | []()  | [1185_一周中的第几天_easy.cpp](./cpp/1185_一周中的第几天_easy.cpp) | 
+| 913  | 猫和老鼠 | Hard | []()  | [913_猫和老鼠_hard.cpp](./cpp/913_猫和老鼠_hard.cpp) | 
 
 
