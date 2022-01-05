@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 4, Jan, 2022 by Fan Zhang
+Update on 5, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -244,5 +244,6 @@ Update on 4, Jan, 2022 by Fan Zhang
 | 390  | 消除游戏 | Medium | []()  | [390_消除游戏_medium.cpp](./cpp/390_消除游戏_medium.cpp) | 
 | 1185  | 一周中的第几天 | Easy | []()  | [1185_一周中的第几天_easy.cpp](./cpp/1185_一周中的第几天_easy.cpp) | 
 | 913  | 猫和老鼠 | Hard | []()  | [913_猫和老鼠_hard.cpp](./cpp/913_猫和老鼠_hard.cpp) | 
+| 1576  | 替换所有的问号 | Easy | []()  | [1576_替换所有的问号_easy.cpp](./cpp/1576_替换所有的问号_easy.cpp) | 
 
 
