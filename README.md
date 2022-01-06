@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 6, Jan, 2022 by Fan Zhang
+Update on 7, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -246,5 +246,6 @@ Update on 6, Jan, 2022 by Fan Zhang
 | 913  | 猫和老鼠 | Hard | []()  | [913_猫和老鼠_hard.cpp](./cpp/913_猫和老鼠_hard.cpp) | 
 | 1576  | 替换所有的问号 | Easy | []()  | [1576_替换所有的问号_easy.cpp](./cpp/1576_替换所有的问号_easy.cpp) | 
 | 71  | 简化路径 | Medium | [71_简化路径_medium.py](./python/71_简化路径_medium.py)  | [71_简化路径_medium.cpp](./cpp/71_简化路径_medium.cpp) | 
+| 1614  | 括号的最大嵌套深度 | Easy |   | [1614_括号的最大嵌套深度_easy.cpp](./cpp/1614_括号的最大嵌套深度_easy.cpp) | 
 
 
