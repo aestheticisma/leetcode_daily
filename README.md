@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 10, Jan, 2022 by Fan Zhang
+Update on 11, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -250,5 +250,6 @@ Update on 10, Jan, 2022 by Fan Zhang
 | 89  | 格雷编码 | Medium |   | [89_格雷编码_medium.cpp](./cpp/89_格雷编码_medium.cpp) | 
 | 1629  | 按键持续时间最长的键 | Easy |   | [1629_按键持续时间最长的键_easy.cpp](./cpp/1629_按键持续时间最长的键_easy.cpp) | 
 | 306  | 累加数 | Medium |   | [306_累加数_medium.cpp](./cpp/306_累加数_medium.cpp) | 
+| 1036  | 逃离大迷宫 | Hard |   | [1036_逃离大迷宫_hard.cpp](./cpp/1036_逃离大迷宫_hard.cpp) | 
 
 
