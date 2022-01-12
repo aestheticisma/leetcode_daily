@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 12, Jan, 2022 by Fan Zhang
+Update on 13, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -252,5 +252,6 @@ Update on 12, Jan, 2022 by Fan Zhang
 | 306  | 累加数 | Medium |   | [306_累加数_medium.cpp](./cpp/306_累加数_medium.cpp) | 
 | 1036  | 逃离大迷宫 | Hard |   | [1036_逃离大迷宫_hard.cpp](./cpp/1036_逃离大迷宫_hard.cpp) | 
 | 334  | 递增的三元子序列 | Medium |   | [334_递增的三元子序列_medium.cpp](./cpp/334_递增的三元子序列_medium.cpp) | 
+| 747  | 至少是其他数字两倍的最大数 | Easy |   | [747_至少是其他数字两倍的最大数_easy.cpp](./cpp/747_至少是其他数字两倍的最大数_easy.cpp) | 
 
 
