@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, Jan, 2022 by Fan Zhang
+Update on 15, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -254,5 +254,6 @@ Update on 14, Jan, 2022 by Fan Zhang
 | 334  | 递增的三元子序列 | Medium |   | [334_递增的三元子序列_medium.cpp](./cpp/334_递增的三元子序列_medium.cpp) | 
 | 747  | 至少是其他数字两倍的最大数 | Easy |   | [747_至少是其他数字两倍的最大数_easy.cpp](./cpp/747_至少是其他数字两倍的最大数_easy.cpp) | 
 | 373  | 查找和最小的K对数字 | Medium |   | [373_查找和最小的K对数字_medium.cpp](./cpp/373_查找和最小的K对数字_medium.cpp) | 
+| 1716  | 计算力扣银行的钱 | Easy |   | [1716_计算力扣银行的钱_easy.cpp](./cpp/1716_计算力扣银行的钱_easy.cpp) | 
 
 
