@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, Jan, 2022 by Fan Zhang
+Update on 19, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -258,5 +258,6 @@ Update on 18, Jan, 2022 by Fan Zhang
 | 382  | 链表随机节点 | Medium |   | [382_链表随机节点_medium.cpp](./cpp/382_链表随机节点_medium.cpp) | 
 | 1220  | 统计元音字母序列的数目 | Hard |   | [1220_统计元音字母序列的数目_hard.cpp](./cpp/1220_统计元音字母序列的数目_hard.cpp) | 
 | 539  | 最小时间差 | Medium |   | [539_最小时间差_medium.cpp](./cpp/539_最小时间差_medium.cpp) | 
+| 219  | 存在重复元素_II | Easy |   | [219_存在重复元素_II_easy.cpp](./cpp/219_存在重复元素_II_easy.cpp) | 
 
 
