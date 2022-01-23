@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 22, Jan, 2022 by Fan Zhang
+Update on 23, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -262,5 +262,6 @@ Update on 22, Jan, 2022 by Fan Zhang
 | 2029  | 石子游戏_IX | Medium |   | [2029_石子游戏_IX_medium.cpp](./cpp/2029_石子游戏_IX_medium.cpp) | 
 | 1345  | 跳跃游戏_IV | Hard |   | [1345_跳跃游戏_IV_hard.cpp](./cpp/1345_跳跃游戏_IV_hard.cpp) | 
 | 1332  | 删除回文子序列 | Easy |   | [1332_删除回文子序列_easy.cpp](./cpp/1332_删除回文子序列_easy.cpp) | 
+| 2034  | 股票价格波动 | Medium |   | [2034_股票价格波动_medium.cpp](./cpp/2034_股票价格波动_medium.cpp) | 
 
 
