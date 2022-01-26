@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 25, Jan, 2022 by Fan Zhang
+Update on 26, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -265,5 +265,6 @@ Update on 25, Jan, 2022 by Fan Zhang
 | 2034  | 股票价格波动 | Medium |   | [2034_股票价格波动_medium.cpp](./cpp/2034_股票价格波动_medium.cpp) | 
 | 2045  | 到达目的地的第二短时间 | Hard |   | [2045_到达目的地的第二短时间_hard.cpp](./cpp/2045_到达目的地的第二短时间_hard.cpp) | 
 | 1688  | 比赛中的配对次数 | Easy |   | [1688_比赛中的配对次数_easy.cpp](./cpp/1688_比赛中的配对次数_easy.cpp) | 
+| 2013  | 检测正方形 | Medium |   | [2013_检测正方形_medium.cpp](./cpp/2013_检测正方形_medium.cpp) | 
 
 
