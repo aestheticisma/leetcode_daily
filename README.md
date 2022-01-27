@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 27, Jan, 2022 by Fan Zhang
+Update on 28, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -267,5 +267,6 @@ Update on 27, Jan, 2022 by Fan Zhang
 | 1688  | 比赛中的配对次数 | Easy |   | [1688_比赛中的配对次数_easy.cpp](./cpp/1688_比赛中的配对次数_easy.cpp) | 
 | 2013  | 检测正方形 | Medium |   | [2013_检测正方形_medium.cpp](./cpp/2013_检测正方形_medium.cpp) | 
 | 2047  | 句子中的有效单词数 | Easy |   | [2047_句子中的有效单词数_easy.cpp](./cpp/2047_句子中的有效单词数_easy.cpp) | 
+| 1996  | 游戏中弱角色的数量 | Medium |   | [1996_游戏中弱角色的数量_medium.cpp](./cpp/1996_游戏中弱角色的数量_medium.cpp) | 
 
 
