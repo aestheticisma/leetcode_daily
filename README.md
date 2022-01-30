@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 30, Jan, 2022 by Fan Zhang
+Update on 31, Jan, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -270,5 +270,6 @@ Update on 30, Jan, 2022 by Fan Zhang
 | 1996  | 游戏中弱角色的数量 | Medium |   | [1996_游戏中弱角色的数量_medium.cpp](./cpp/1996_游戏中弱角色的数量_medium.cpp) | 
 | 1765  | 地图中的最高点 | Medium |   | [1765_地图中的最高点_medium.cpp](./cpp/1765_地图中的最高点_medium.cpp) | 
 | 884  | 两句话中的不常见单词 | Easy |   | [884_两句话中的不常见单词_easy.cpp](./cpp/884_两句话中的不常见单词_easy.cpp) | 
+| 1342  | 将数字变成 0 的操作次数 | Easy |   | [1342_将数字变成0的操作次数_easy.cpp](./cpp/1342_将数字变成0的操作次数_easy.cpp) | 
 
 
