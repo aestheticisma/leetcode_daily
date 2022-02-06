@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 6, Feb, 2022 by Fan Zhang
+Update on 7, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -277,5 +277,6 @@ Update on 6, Feb, 2022 by Fan Zhang
 | 1725  | 可以形成最大正方形的矩形数目 | Easy |   | [1725_可以形成最大正方形的矩形数目_easy.cpp](./cpp/1725_可以形成最大正方形的矩形数目_easy.cpp) | 
 | 1219  | 黄金矿工 | Medium |   | [1219_黄金矿工_medium.cpp](./cpp/1219_黄金矿工_medium.cpp) | 
 | 1748  | 唯一元素的和 | Easy |   | [1748_唯一元素的和_easy.cpp](./cpp/1748_唯一元素的和_easy.cpp) | 
+| 1405  | 最长快乐字符串 | Medium |   | [1405_最长快乐字符串_medium.cpp](./cpp/1405_最长快乐字符串_medium.cpp) | 
 
 
