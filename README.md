@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 9, Feb, 2022 by Fan Zhang
+Update on 10, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -280,5 +280,6 @@ Update on 9, Feb, 2022 by Fan Zhang
 | 1405  | 最长快乐字符串 | Medium |   | [1405_最长快乐字符串_medium.cpp](./cpp/1405_最长快乐字符串_medium.cpp) | 
 | 1001  | 网格照明 | Hard |   | [1001_网格照明_hard.cpp](./cpp/1001_网格照明_hard.cpp) | 
 | 2006  | 差的绝对值为K的数对数目 | Easy |   | [2006_差的绝对值为K的数对数目_easy.cpp](./cpp/2006_差的绝对值为K的数对数目_easy.cpp) | 
+| 1447  | 最简分数 | Medium |   | [1447_最简分数_medium.cpp](./cpp/1447_最简分数_medium.cpp) | 
 
 
