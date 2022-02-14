@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 14, Feb, 2022 by Fan Zhang
+Update on 15, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -285,5 +285,6 @@ Update on 14, Feb, 2022 by Fan Zhang
 | 1020  | 飞地的数量 | Medium |   | [1020_飞地的数量_medium.cpp](./cpp/1020_飞地的数量_medium.cpp) | 
 | 1189  | 气球的最大数量 | Easy |   | [1189_气球的最大数量_easy.cpp](./cpp/1189_气球的最大数量_easy.cpp) | 
 | 540  | 有序数组中的单一元素 | Medium |   | [540_有序数组中的单一元素_medium.cpp](./cpp/540_有序数组中的单一元素_medium.cpp) | 
+| 1380  | 矩阵中的幸运数 | easy |   | [1380_矩阵中的幸运数_easy.cpp](./cpp/1380_矩阵中的幸运数_easy.cpp) | 
 
 
