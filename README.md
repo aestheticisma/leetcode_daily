@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 16, Feb, 2022 by Fan Zhang
+Update on 17, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -287,5 +287,6 @@ Update on 16, Feb, 2022 by Fan Zhang
 | 540  | 有序数组中的单一元素 | Medium |   | [540_有序数组中的单一元素_medium.cpp](./cpp/540_有序数组中的单一元素_medium.cpp) | 
 | 1380  | 矩阵中的幸运数 | Easy |   | [1380_矩阵中的幸运数_easy.cpp](./cpp/1380_矩阵中的幸运数_easy.cpp) | 
 | 1719  | 重构一棵树的方案数 | Hard |   | [1719_重构一棵树的方案数_hard.cpp](./cpp/1719_重构一棵树的方案数_hard.cpp) | 
+| 688  | 骑士在棋盘上的概率 | Medium |   | [688_骑士在棋盘上的概率_medium.cpp](./cpp/688_骑士在棋盘上的概率_medium.cpp) | 
 
 
