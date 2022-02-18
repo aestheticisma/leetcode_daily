@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 18, Feb, 2022 by Fan Zhang
+Update on 19, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -289,5 +289,6 @@ Update on 18, Feb, 2022 by Fan Zhang
 | 1719  | 重构一棵树的方案数 | Hard |   | [1719_重构一棵树的方案数_hard.cpp](./cpp/1719_重构一棵树的方案数_hard.cpp) | 
 | 688  | 骑士在棋盘上的概率 | Medium |   | [688_骑士在棋盘上的概率_medium.cpp](./cpp/688_骑士在棋盘上的概率_medium.cpp) | 
 | 1791  | 找出星型图的中心节点 | Easy |   | [1791_找出星型图的中心节点_easy.cpp](./cpp/1791_找出星型图的中心节点_easy.cpp) | 
+| 969  | 煎饼排序 | Medium |   | [969_煎饼排序_medium.cpp](./cpp/969_煎饼排序_medium.cpp) | 
 
 
