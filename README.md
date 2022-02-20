@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 20, Feb, 2022 by Fan Zhang
+Update on 21, Feb, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -291,5 +291,6 @@ Update on 20, Feb, 2022 by Fan Zhang
 | 1791  | 找出星型图的中心节点 | Easy |   | [1791_找出星型图的中心节点_easy.cpp](./cpp/1791_找出星型图的中心节点_easy.cpp) | 
 | 969  | 煎饼排序 | Medium |   | [969_煎饼排序_medium.cpp](./cpp/969_煎饼排序_medium.cpp) | 
 | 717  | 1比特与2比特字符 | Easy |   | [717_1比特与2比特字符_easy.cpp](./cpp/717_1比特与2比特字符_easy.cpp) | 
+| 838  | 推多米诺 | Medium |   | [838_推多米诺_medium.cpp](./cpp/838_推多米诺_medium.cpp) | 
 
 
