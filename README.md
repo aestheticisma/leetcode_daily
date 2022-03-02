@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 26, Feb, 2022 by Fan Zhang
+Update on 2, March, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -295,5 +295,6 @@ Update on 26, Feb, 2022 by Fan Zhang
 | 917  | 仅仅反转字母 | Easy |   | [917_仅仅反转字母_easy.cpp](./cpp/917_仅仅反转字母_easy.cpp) | 
 | 537  | 复数乘法 | Medium |   | [537_复数乘法_mediun.cpp](./cpp/537_复数乘法_mediun.cpp) | 
 | 2016  | 增量元素之间的最大差值 | Easy |   | [2016_增量元素之间的最大差值_easy.cpp](./cpp/2016_增量元素之间的最大差值_easy.cpp) | 
+| 564  | 寻找最近的回文数 | Hard |   | [564_寻找最近的回文数_hard.cpp](./cpp/564_寻找最近的回文数_hard.cpp) | 
 
 
