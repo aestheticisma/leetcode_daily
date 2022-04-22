@@ -3,7 +3,7 @@
 
 `一个懒狗的自我修养`
 
-Update on 21, April, 2022 by Fan Zhang
+Update on 22, April, 2022 by Fan Zhang
 
 | No. | Title | Difficulty | Python | C++ |
 | :-: | :-: | :-: | :-: | :-: |
@@ -300,5 +300,6 @@ Update on 21, April, 2022 by Fan Zhang
 | 386  | 字典序排数 | Medium |   | [386_字典序排数_medium.cpp](./cpp/386_字典序排数_medium.cpp) | 
 | 388  | 文件的最长绝对路径 | Medium |   | [388_文件的最长绝对路径_medium.cpp](./cpp/388_文件的最长绝对路径_medium.cpp) | 
 | 824  | 山羊拉丁文 | Easy |   | [824_山羊拉丁文_easy.cpp](./cpp/824_山羊拉丁文_easy.cpp) | 
+| 396  | 旋转函数 | Medium |   | [396_旋转函数_medium.cpp](./cpp/396_旋转函数_medium.cpp) | 
 
 
